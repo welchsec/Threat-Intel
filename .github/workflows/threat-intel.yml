@@ -1,0 +1,33 @@
+name: Update Threat Intel Feed
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Runs every day at 8:00 AM UTC
+  workflow_dispatch:      # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run threat intel fetch script
+        run: python fetch_threat_intel.py
+
+      - name: Commit and push updated THREAT-INTEL.md
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add THREAT-INTEL.md
+          git diff --cached --quiet || git commit -m "🛡️ Auto-update threat intel feed - $(date +'%Y-%m-%d')"
+          git push
