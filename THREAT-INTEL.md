@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **February 22, 2026 at 09:01 UTC**  
+> Last updated: **February 23, 2026 at 10:36 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,12 @@ KrebsOnSecurity.com celebrates its 16th anniversary today! A huge "thank you" to
 
 ## 💻 Bleeping Computer
 
+### [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
+📅 February 22, 2026
+
+An information-stealing malware operation named Arkanix Stealer, promoted on multiple dark web forums towards the end of 2025, was likely developed as an AI-assisted experiment. [...]
+
+
 ### [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
 📅 February 21, 2026
 
@@ -136,15 +142,15 @@ The University of Mississippi Medical Center (UMMC) closed all its clinic locati
 The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM "jackpotting" attacks, in which criminals use malware to force cash machines to dispense money. [...]
 
 
-### [Ukrainian gets 5 years for helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/)
-📅 February 20, 2026
-
-A Ukrainian national was sentenced to five years in prison for providing North Korean IT workers with stolen identities that helped them infiltrate U.S. companies. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
+📅 February 23, 2026
+
+The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo. The activity, first observ...
+
 
 ### [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
 📅 February 21, 2026
@@ -198,12 +204,6 @@ With one in three cyber-attacks now involving compromised employee accounts, ins
 📅 February 20, 2026
 
 A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme. In November 2025, Oleksandr "Alexander" Didenko pleaded guilty to wire fraud conspiracy and aggravated identity the...
-
-
-### [FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
-📅 February 20, 2026
-
-The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025. The agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In Decem...
 
 
 ---
