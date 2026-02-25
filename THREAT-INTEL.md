@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **February 24, 2026 at 10:33 UTC**  
+> Last updated: **February 25, 2026 at 10:36 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,69 +82,111 @@ KrebsOnSecurity.com celebrates its 16th anniversary today! A huge "thank you" to
 
 ## 💻 Bleeping Computer
 
-### [Android mental health apps with 14.7M installs filled with security flaws](https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/)
-📅 February 23, 2026
+### [US sanctions Russian broker for buying stolen zero-day exploits](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/)
+📅 February 25, 2026
 
-Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users' sensitive medical information. [...]
-
-
-### [Spain arrests suspected hacktivists for DDoSing govt sites](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/)
-📅 February 23, 2026
-
-Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries, political parties, and various public institutions. [...]
+The U.S. Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U.S. defense contractor. [...]
 
 
-### [Microsoft says bug in classic Outlook hides the mouse pointer](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/)
-📅 February 23, 2026
+### [Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker](https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/)
+📅 February 25, 2026
 
-Microsoft is investigating a known issue that causes the mouse pointer to disappear in the classic Outlook desktop email client for some users. [...]
-
-
-### [Ad tech firm Optimizely confirms data breach after vishing attack](https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/)
-📅 February 23, 2026
-
-New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]
+The former head of Trenchant, a specialized U.S. defense contractor unit, was sentenced Tuesday to more than seven years in federal prison for stealing and selling zero-day exploits to a Russian broker whose clients include the Russian government. [...]
 
 
-### [When identity isn’t the weak link, access still is](https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/)
-📅 February 23, 2026
+### [Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/)
+📅 February 25, 2026
 
-Stolen tokens and compromised devices let attackers reuse trust without breaking authentication. Specops Software explains why identity alone isn't enough and how continuous device verification strengthens Zero Trust. [...]
-
-
-### [CISA: Recently patched RoundCube flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/)
-📅 February 23, 2026
-
-CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]
+Microsoft has released the KB5077241 optional cumulative update for Windows 11, which comes with 29 changes, including improvements to BitLocker, a new network speed test tool, and native System Monitor (Sysmon) functionality. [...]
 
 
-### [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
-📅 February 22, 2026
+### [Phishing campaign targets freight and logistics orgs in the US, Europe](https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/)
+📅 February 24, 2026
 
-An information-stealing malware operation named Arkanix Stealer, promoted on multiple dark web forums towards the end of 2025, was likely developed as an AI-assisted experiment. [...]
-
-
-### [Predator spyware hooks iOS SpringBoard to hide mic, camera activity](https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/)
-📅 February 21, 2026
-
-Intellexa's Predator spyware can hide iOS recording indicators while secretly streaming camera and microphone feeds to its operators. [...]
+A financially motivated threat group dubbed "Diesel Vortex" is stealing credentials from freight and logistics operators in the U.S. and Europe in phishing attacks using 52 domains. [...]
 
 
-### [Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks](https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/)
-📅 February 21, 2026
+### [Wynn Resorts confirms employee data breach after extortion threat](https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/)
+📅 February 24, 2026
 
-Amazon is warning that a Russian-speaking hacker used multiple generative AI services as part of a campaign that breached more than 600 FortiGate firewalls across 55 countries in five weeks. [...]
+Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site. [...]
 
 
-### [Japanese tech giant Advantest hit by ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/)
-📅 February 20, 2026
+### [1Campaign platform helps malicious Google ads evade detection](https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/)
+📅 February 24, 2026
 
-Advantest Corporation disclosed that its corporate network has been targeted in a ransomware attack that may have affected customer or employee data. [...]
+A newly identified cybercrime service known as 1Campaign is enabling threat actors to run malicious Google Ads that remain online for extended periods while evading scrutiny from security researchers. [...]
+
+
+### [CarGurus data breach exposes information of 12.4 million accounts](https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/)
+📅 February 24, 2026
+
+The ShinyHunters extortion group has published personal information in more than 12 million records allegedly stolen from CarGurus, a U.S.-based digital auto platform. [...]
+
+
+### [Microsoft adds Copilot data controls to all storage locations](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/)
+📅 February 24, 2026
+
+Microsoft is expanding data loss prevention (DLP) controls to block the Microsoft 365 Copilot AI assistant from processing confidential Word, Excel, and PowerPoint documents, regardless of their location. [...]
+
+
+### [Identity-First AI Security: Why CISOs Must Add Intent to the Equation](https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/)
+📅 February 24, 2026
+
+AI agents now provision infrastructure and approve actions, but many inherit over-scoped privileges without proper governance. Token Security explains why CISOs must treat agents as identities and add intent-based controls so access is granted only when purpose and context align. [...]
+
+
+### [UK fines Reddit $19 million for using children’s data unlawfully](https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/)
+📅 February 24, 2026
+
+The UK Information Commissioner's Office (ICO) has fined Reddit £14.47 million (over $19.5 million) for collecting and using the personal information of children under 13 without adequate safeguards. [...]
 
 
 ---
 
 ## 🗞️ The Hacker News
+
+### [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
+📅 February 25, 2026
+
+A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in prison for selling eight zero-day exploits to Russian exploit broker Operation Zero in exchange for millions of dollars. Peter Williams pleaded guilty ...
+
+
+### [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
+📅 February 25, 2026
+
+SolarWinds has released updates to address four critical security flaws in its Serv-U file transfer software that, if successfully exploited, could result in remote code execution. The vulnerabilities, all rated 9.1 on the CVSS scoring system, are listed below - CVE-2025-40538 - A broken access cont...
+
+
+### [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
+📅 February 25, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-25108 (CVSS v4 score: 8.7), is a case o...
+
+
+### [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
+📅 February 24, 2026
+
+A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue. The artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched...
+
+
+### [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
+📅 February 24, 2026
+
+A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat actor's targeting beyond Ukraine and into entities supporting...
+
+
+### [Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
+📅 February 24, 2026
+
+Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or “what failed a control check.” That approach breaks the moment your environment stops being mostly-human and mostly-onboarded. In modern enterprises, identity risk is created by a compound of fac...
+
+
+### [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
+📅 February 24, 2026
+
+The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat Hunter Team. Broadcom's threat intelligence division said it ...
+
 
 ### [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
 📅 February 24, 2026
@@ -162,48 +204,6 @@ Anthropic on Monday said it identified "industrial-scale campaigns" mounted by t
 📅 February 23, 2026
 
 The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe. The activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Oper...
-
-
-### [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
-📅 February 23, 2026
-
-Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts. "Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage...
-
-
-### [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
-📅 February 23, 2026
-
-Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are familiar. Across devices, cloud services, research labs, and even ...
-
-
-### [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
-📅 February 23, 2026
-
-As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that ser...
-
-
-### [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
-📅 February 23, 2026
-
-Cybersecurity researchers have disclosed what they say is an active "Shai-Hulud-like" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft. The campaign has been codenamed SANDWORM_MODE by supply ch...
-
-
-### [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
-📅 February 23, 2026
-
-The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo. The activity, first observ...
-
-
-### [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
-📅 February 21, 2026
-
-A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries. That's according to new findings from Amazon Threat Intelligence, which said it o...
-
-
-### [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
-📅 February 21, 2026
-
-Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches. The capability, called Claude Code Security, is currently available in a limited research preview to Enterpris...
 
 
 ---
