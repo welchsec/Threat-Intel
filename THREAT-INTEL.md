@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **February 26, 2026 at 10:31 UTC**  
+> Last updated: **February 27, 2026 at 10:05 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,54 @@ KrebsOnSecurity.com celebrates its 16th anniversary today! A huge "thank you" to
 
 ## 💻 Bleeping Computer
 
+### [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/)
+📅 February 26, 2026
+
+Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]
+
+
+### [Trend Micro warns of critical Apex One code execution flaws](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/)
+📅 February 26, 2026
+
+Trend Micro has patched two critical Apex One vulnerabilities that allow attackers to gain remote code execution (RCE) on vulnerable Windows systems. [...]
+
+
+### [European DYI chain ManoMano data breach impacts 38 million customers](https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/)
+📅 February 26, 2026
+
+DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider. [...]
+
+
+### [Critical Juniper Networks PTX flaw allows full router takeover](https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/)
+📅 February 26, 2026
+
+A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]
+
+
+### [Olympique Marseille confirms 'attempted' cyberattack after data leak](https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/)
+📅 February 26, 2026
+
+French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]
+
+
+### [Ransomware payment rate drops to record low as attacks surge](https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/)
+📅 February 26, 2026
+
+The number of ransomware victims paying threat actors has dropped to 28% last year, an all-time low, despite a significant increase in the number of claimed attacks. [...]
+
+
+### [Microsoft expands Windows restore to more enterprise devices](https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/)
+📅 February 26, 2026
+
+Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]
+
+
+### [New York sues Valve for promoting illegal gambling via game loot boxes](https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/)
+📅 February 26, 2026
+
+New York Attorney General Letitia James sued video game developer and publisher Valve Corporation for using game loot boxes to facilitate illegal gambling activities among children and teenagers. [...]
+
+
 ### [Medical device maker UFP Technologies warns of data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/)
 📅 February 25, 2026
 
@@ -94,57 +142,51 @@ American manufacturer of medical devices, UFP Technologies, has disclosed that a
 The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Next.js projects and technical assessment materials, including recruiting coding tests. [...]
 
 
-### [Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023](https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/)
-📅 February 25, 2026
-
-Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to compromise controllers and add malicious rogue peers to targeted networks. [...]
-
-
-### [Chinese cyberspies breached dozens of telecom firms, govt agencies](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/)
-📅 February 25, 2026
-
-Google's Threat Intelligence Group (GTIG), Mandiant, and partners disrupted a global espionage campaign attributed to a suspected Chinese threat actor that used SaaS API calls to hide malicious traffic in attacks targeting telecom and government networks. [...]
-
-
-### [Marquis sues SonicWall over backup breach that led to ransomware attack](https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/)
-📅 February 25, 2026
-
-Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting operations at 74 U.S. banks. [...]
-
-
-### [The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web](https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/)
-📅 February 25, 2026
-
-OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills marketplace, yet limited signs of large-scale criminal operationalization. [...]
-
-
-### [Zyxel warns of critical RCE flaw affecting over a dozen routers](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/)
-📅 February 25, 2026
-
-Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command execution on unpatched devices. [...]
-
-
-### [US sanctions Russian broker for buying stolen zero-day exploits](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/)
-📅 February 25, 2026
-
-The U.S. Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U.S. defense contractor. [...]
-
-
-### [Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker](https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/)
-📅 February 25, 2026
-
-The former head of Trenchant, a specialized U.S. defense contractor unit, was sentenced Tuesday to more than seven years in federal prison for stealing and selling zero-day exploits to a Russian broker whose clients include the Russian government. [...]
-
-
-### [Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/)
-📅 February 25, 2026
-
-Microsoft has released the KB5077241 optional cumulative update for Windows 11, which comes with 29 changes, including improvements to BitLocker, a new network speed test tool, and native System Monitor (Sysmon) functionality. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
+📅 February 27, 2026
+
+Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam. As part of the effort, the advertisers' methods of payment have been suspended, related accounts have been disabled, and...
+
+
+### [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
+📅 February 26, 2026
+
+Cybersecurity researchers have disclosed details of a new botnet loader called Aeternum C2 that uses a blockchain-based command-and-control (C2) infrastructure to make it resilient to takedown efforts. "Instead of relying on traditional servers or domains for command-and-control, Aeternum stores its...
+
+
+### [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
+📅 February 26, 2026
+
+A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025. The campaign is being tracked by Cisco Talos under the moniker UAT-10027. The end goal of the attacks is to deli...
+
+
+### [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
+📅 February 26, 2026
+
+Nothing here looks dramatic at first glance. That’s the point. Many of this week’s threats begin with something ordinary, like an ad, a meeting invite, or a software update. Behind the scenes, the tactics are sharper. Access happens faster. Control is established sooner. Cleanup becomes harder. Here...
+
+
+### [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
+📅 February 26, 2026
+
+Introduction: Steal It Today, Break It in a Decade Digital evolution is unstoppable, and though the pace may vary, things tend to fall into place sooner rather than later. That, of course, applies to adversaries as well. The rise of ransomware and cyber extortion generated funding for a complex and ...
+
+
+### [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
+📅 February 26, 2026
+
+A "coordinated developer-targeting campaign" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines. "The activity aligns with a broader cluster of threats that us...
+
+
+### [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
+📅 February 26, 2026
+
+Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector. The package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitim...
+
 
 ### [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
 📅 February 26, 2026
@@ -164,51 +206,13 @@ Google on Wednesday disclosed that it worked with industry partners to disrupt t
 Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials. "The vulnerabilities exploit various configuration mechanisms, inc...
 
 
-### [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
-📅 February 25, 2026
-
-The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks. The idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. Th...
-
-
-### [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
-📅 February 25, 2026
-
-Triage is supposed to make things simpler. In a lot of teams, it does the opposite. When you can’t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and “just escalate it” calls. That cost doesn’t stay inside the SOC; it shows up as missed SLAs, higher cost per case, a...
-
-
-### [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
-📅 February 25, 2026
-
-Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data. The campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including user accounts, role assignments, and permission mappings, a...
-
-
-### [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
-📅 February 25, 2026
-
-Why automating sensitive data transfers is now a mission-critical priority More than half of national security organizations still rely on manual processes to transfer sensitive data, according to The CYBER360: Defending the Digital Battlespace report. This should alarm every defense and government ...
-
-
-### [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
-📅 February 25, 2026
-
-A 39-year-old Australian national who was previously employed at U.S. defense contractor L3Harris has been sentenced to a little over seven years in prison for selling eight zero-day exploits to Russian exploit broker Operation Zero in exchange for millions of dollars. Peter Williams pleaded guilty ...
-
-
-### [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
-📅 February 25, 2026
-
-SolarWinds has released updates to address four critical security flaws in its Serv-U file transfer software that, if successfully exploited, could result in remote code execution. The vulnerabilities, all rated 9.1 on the CVSS scoring system, are listed below - CVE-2025-40538 - A broken access cont...
-
-
-### [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
-📅 February 25, 2026
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-25108 (CVSS v4 score: 8.7), is a case o...
-
-
 ---
 
 ## 🚨 CISA Alerts
+
+### [CISA Issues Updated RESURGE Malware Analysis Highlighting a Stealthy but Active Threat](https://www.cisa.gov/news-events/news/cisa-issues-updated-resurge-malware-analysis-highlighting-stealthy-active-threat)
+📅 February 26, 2026
+
 
 ### [Immediate Action Required: CISA Issues Emergency Directive to Secure Cisco SD-WAN Systems](https://www.cisa.gov/news-events/news/immediate-action-required-cisa-issues-emergency-directive-secure-cisco-sd-wan-systems)
 📅 February 25, 2026
@@ -244,10 +248,6 @@ The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday adde
 
 ### [CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity](https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity)
 📅 January 08, 2026
-
-
-### [Opening Doors to the Future: CISA Announces Participation in the CyberCorps® Scholarship for Service (SFS)](https://www.cisa.gov/news-events/news/opening-doors-future-cisa-announces-participation-cybercorpsr-scholarship-service-sfs)
-📅 December 17, 2025
 
 
 ---
