@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **March 07, 2026 at 08:59 UTC**  
+> Last updated: **March 08, 2026 at 08:59 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,18 @@ The story you are reading is a series of scoops nestled inside a far more urgent
 
 ## 💻 Bleeping Computer
 
+### [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
+📅 March 07, 2026
+
+Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor. [...]
+
+
+### [Microsoft: Hackers abusing AI at every stage of cyberattacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/)
+📅 March 07, 2026
+
+Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack. [...]
+
+
 ### [Cognizant TriZetto breach exposes health data of 3.4 million patients](https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/)
 📅 March 06, 2026
 
@@ -130,21 +142,21 @@ The U.S. Federal Bureau of Investigation (FBI) confirmed on Thursday that it's i
 A China-linked advanced persistent threat actor tracked as UAT-9244 has been targeting telecommunication service providers in South America since 2024, compromising Windows, Linux, and network-edge devices. [...]
 
 
-### [Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware](https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/)
-📅 March 05, 2026
-
-Fake OpenClaw installers hosted in GitHub repositories and promoted by Microsoft Bing's AI-enhanced search feature instructed users to run commands that deployed information stealers and proxy malware. [...]
-
-
-### [Wikipedia hit by self-propagating JavaScript worm that vandalized pages](https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/)
-📅 March 05, 2026
-
-The Wikimedia Foundation suffered a security incident today after a self-propagating JavaScript worm began vandalizing pages and modifying user scripts across multiple wikis. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+📅 March 07, 2026
+
+OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities. The feature is available in a research preview to ChatGPT Pro, Enterprise, Business, and Edu customers via the Codex web...
+
+
+### [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
+📅 March 07, 2026
+
+Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla. Of these, 14 have been classified as high, seven have been classified as moderate, and one has been rated low in severity. The issues were addressed in Fi...
+
 
 ### [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
 📅 March 06, 2026
@@ -192,18 +204,6 @@ The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday add
 📅 March 05, 2026
 
 Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild. The vulnerabilities in question are listed below - CVE-2026-20122 (CVSS score: 7.1) - An arbitrary file overwrite vulnerability that could al...
-
-
-### [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
-📅 March 05, 2026
-
-Most organizations assume encrypted data is safe. But many attackers are already preparing for a future where today’s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers. This t...
-
-
-### [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine & More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
-📅 March 05, 2026
-
-Some weeks in cybersecurity feel routine. This one doesn&rsquo;t. Several new developments surfaced over the past few days, showing how quickly the threat landscape keeps shifting. Researchers uncovered fresh activity, security teams shared new findings, and a few unexpected moves from major tech co...
 
 
 ---
