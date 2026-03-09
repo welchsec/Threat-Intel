@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **March 08, 2026 at 08:59 UTC**  
+> Last updated: **March 09, 2026 at 10:30 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -17,6 +17,12 @@
 ---
 
 ## 🔐 Krebs on Security
+
+### [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
+📅 March 08, 2026
+
+AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these p...
+
 
 ### [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/)
 📅 February 28, 2026
@@ -72,15 +78,21 @@ Microsoft today issued patches to plug at least 113 security holes in its variou
 Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cyb...
 
 
-### [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
-📅 January 02, 2026
-
-The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the...
-
-
 ---
 
 ## 💻 Bleeping Computer
+
+### [EU court adviser says banks must immediately refund phishing victims](https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/)
+📅 March 08, 2026
+
+Athanasios Rantos, the Advocate General of the Court of Justice of the EU (CJEU), has issued a formal opinion suggesting that banks must immediately refund account holders affected by unauthorized transactions, even when it's their fault. [...]
+
+
+### [Hackers abuse .arpa DNS and ipv6 to evade phishing defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/)
+📅 March 08, 2026
+
+Threat actors are abusing the special-use ".arpa" domain and IPv6 reverse DNS in phishing campaigns that more easily evade domain reputation checks and email security gateways. [...]
+
 
 ### [Termite ransomware breaches linked to ClickFix CastleRAT attacks](https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/)
 📅 March 07, 2026
@@ -130,21 +142,21 @@ Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Bac
 A Ghanaian national pleaded guilty to his role in a massive fraud ring that stole over $100 million from victims across the United States through business email compromise attacks and romance scams. [...]
 
 
-### [FBI investigates breach of surveillance and wiretap systems](https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/)
-📅 March 06, 2026
-
-The U.S. Federal Bureau of Investigation (FBI) confirmed on Thursday that it's investigating a breach that affected systems used to manage surveillance and wiretap warrants. [...]
-
-
-### [Chinese state hackers target telcos with new malware toolkit](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/)
-📅 March 05, 2026
-
-A China-linked advanced persistent threat actor tracked as UAT-9244 has been targeting telecommunication service providers in South America since 2024, compromising Windows, Linux, and network-edge devices. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
+📅 March 09, 2026
+
+Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data. The extensions in question, both originally associated with a developer named...
+
+
+### [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
+📅 March 09, 2026
+
+High-value organizations located in South, Southeast, and East Asia have been targeted by a Chinese threat actor as part of a years-long campaign. The activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attr...
+
 
 ### [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 📅 March 07, 2026
@@ -192,18 +204,6 @@ A China-linked advanced persistent threat (APT) actor has been targeting critica
 📅 March 06, 2026
 
 Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware. The activity, observed in February 2026, makes use of the terminal emul...
-
-
-### [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
-📅 March 06, 2026
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical-severity vulnerabilities are listed be...
-
-
-### [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
-📅 March 05, 2026
-
-Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild. The vulnerabilities in question are listed below - CVE-2026-20122 (CVSS score: 7.1) - An arbitrary file overwrite vulnerability that could al...
 
 
 ---
