@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **March 11, 2026 at 10:07 UTC**  
+> Last updated: **March 12, 2026 at 10:08 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -17,6 +17,12 @@
 ---
 
 ## 🔐 Krebs on Security
+
+### [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
+📅 March 11, 2026
+
+A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more t...
+
 
 ### [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
 📅 March 11, 2026
@@ -72,15 +78,45 @@ The cybercriminals in control of Kimwolf -- a disruptive botnet that has infecte
 A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of comprom...
 
 
-### [Patch Tuesday, January 2026 Edition](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
-📅 January 14, 2026
-
-Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire "critical" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.
-
-
 ---
 
 ## 💻 Bleeping Computer
+
+### [WhatsApp introduces parent-managed accounts for pre-teens](https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/)
+📅 March 11, 2026
+
+WhatsApp has begun rolling out parent-managed accounts for pre-teens, allowing parents and guardians to decide who can contact them and which groups they can join. [...]
+
+
+### [SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites](https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/)
+📅 March 11, 2026
+
+An SQL injection vulnerability in Ally, a WordPress plugin from Elementor for web accessibility and usability with more than 400,000 installations, could be exploited to steal sensitive data without authentication. [...]
+
+
+### [CISA orders feds to patch n8n RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/)
+📅 March 11, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies on Wednesday to patch their systems against an actively exploited n8n vulnerability. [...]
+
+
+### [Medtech giant Stryker offline after Iran-linked wiper malware attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/)
+📅 March 11, 2026
+
+Leading medical technology company Stryker has been hit by a wiper malware attack claimed by Handala, an Iranian-linked and pro-Palestinian hacktivist group. [...]
+
+
+### [New PhantomRaven NPM attack wave steals dev data via 88 packages](https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/)
+📅 March 11, 2026
+
+New attack waves from the 'PhantomRaven' supply-chain campaign are hitting the npm registry, with dozens of malicious packages that exfiltrate sensitive data from JavaScript developers. [...]
+
+
+### [Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools](https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/)
+📅 March 11, 2026
+
+Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers. [...]
+
 
 ### [New ‘BlackSanta’ EDR killer spotted targeting HR departments](https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/)
 📅 March 10, 2026
@@ -106,45 +142,51 @@ A new technique dubbed "Zombie ZIP" helps conceal payloads in compressed files s
 Microsoft has released the Windows 10 KB5078885 extended security update to fix the March 2026 Patch Tuesday vulnerabilities, including 2 zero-days and an issue that prevent some devices from shutting down. [...]
 
 
-### [Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/)
-📅 March 10, 2026
-
-Today is Microsoft's March 2026 Patch Tuesday with security updates for 79 flaws, including 2 publicly disclosed zero-day vulnerabilities. [...]
-
-
-### [Windows 11 KB5079473 & KB5078883 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/)
-📅 March 10, 2026
-
-Microsoft has released Windows 11 KB5079473 and KB5078883 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]
-
-
-### [HPE warns of critical AOS-CX flaw allowing admin password resets](https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/)
-📅 March 10, 2026
-
-Hewlett Packard Enterprise (HPE) has patched multiple security vulnerabilities in the Aruba Networking AOS-CX operating system, including several authentication and code execution issues. [...]
-
-
-### [Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/)
-📅 March 10, 2026
-
-Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hello. [...]
-
-
-### [New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network](https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/)
-📅 March 10, 2026
-
-A newly discovered botnet malware called KadNap is targeting ASUS routers and other edge networking devices to turn them into proxies for malicious traffic. [...]
-
-
-### [The New Turing Test: How Threats Use Geometry to Prove 'Humanness'](https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/)
-📅 March 10, 2026
-
-Malware is evolving to evade sandboxes by pretending to be a real human behind the keyboard. The Picus Red Report 2026 shows 80% of top attacker techniques now focus on evasion and persistence, including geometry-based cursor tests and CPU timing checks. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets](https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html)
+📅 March 12, 2026
+
+Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud. The Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Obliv...
+
+
+### [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
+📅 March 12, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability, tracked as CVE-2025-68613 (CVSS score: 9.9), concerns a case o...
+
+
+### [Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
+📅 March 11, 2026
+
+Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey to phishing and scam traps. The attack, at its core, takes advantage of AI browsers' tendency to re...
+
+
+### [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
+📅 March 11, 2026
+
+Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution. The vulnerabilities are listed below - CVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escap...
+
+
+### [Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html)
+📅 March 11, 2026
+
+Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia. The effo...
+
+
+### [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
+📅 March 11, 2026
+
+SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems. The vulnerabilities in question listed below - CVE-2019-17571 (CVSS score: 9.8) - A code injection vulnerability in SAP Quotation Management Insur...
+
+
+### [What Boards Must Demand in the Age of AI-Automated Exploitation](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
+📅 March 11, 2026
+
+“You knew, and you could have acted. Why didn’t you?”&nbsp; This is the question you do not want to be asked. And increasingly, it’s the question leaders are forced to answer after an incident. For years, many executive teams and boards have treated a large vulnerability backlog as an uncomfortable ...
+
 
 ### [Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
 📅 March 11, 2026
@@ -162,48 +204,6 @@ A threat actor known as UNC6426 leveraged keys stolen following the supply chain
 📅 March 11, 2026
 
 Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors. The Rust packages, published to crates.io, are listed below - chrono_anchor dnp3times time_calibrator time_calibrators time-sync The crates,...
-
-
-### [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
-📅 March 10, 2026
-
-Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&nbsp; The activity involves the exploitation of recently disclosed security vulnerabilities or weak creden...
-
-
-### [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
-📅 March 10, 2026
-
-Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own. But there is a problem. While these agents make work faster, they also open a new "back door" fo...
-
-
-### [KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet](https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html)
-📅 March 10, 2026
-
-Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic. The malware, first detected in the wild in August 2025, has expanded to over 14,000 infected devices, with more than 60% of victi...
-
-
-### [New "LeakyLooker" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries](https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html)
-📅 March 10, 2026
-
-Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments. The shortcomings have been collecti...
-
-
-### [The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
-📅 March 10, 2026
-
-You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it ...
-
-
-### [APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military](https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html)
-📅 March 10, 2026
-
-The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long‑term surveillance of Ukrainian military personnel. The two malware families have been put to use since April 2024, ESET said in a new report shared ...
-
-
-### [Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool](https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html)
-📅 March 10, 2026
-
-Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector. The activity, per the company, involves the exploitation of cust...
 
 
 ---
