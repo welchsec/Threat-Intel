@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **March 15, 2026 at 09:50 UTC**  
+> Last updated: **March 16, 2026 at 11:13 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,18 @@ A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million
 
 ## 💻 Bleeping Computer
 
+### [OpenAI says ChatGPT ads are not rolling out globally for now](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/)
+📅 March 15, 2026
+
+OpenAI told BleepingComputer that ChatGPT ads on Free and Go plans are not yet rolling out outside the United States, even though some users noticed references to ads in the updated privacy policy. [...]
+
+
+### [Betterleaks, a new open-source secrets scanner to replace Gitleaks](https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/)
+📅 March 15, 2026
+
+A new open-source tool called Betterleaks can scan directories, files, and git repositories and identify valid secrets using default or customized rules. [...]
+
+
 ### [Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/)
 📅 March 14, 2026
 
@@ -130,21 +142,21 @@ Hypervisor migrations can introduce hidden risks that threaten data availability
 An international law enforcement action codenamed "Operation Synergia III" has sinkholed tens of thousands of IP addresses and seized servers linked to cybercrime operations worldwide. [...]
 
 
-### [Fake enterprise VPN sites used to steal company credentials](https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/)
-📅 March 13, 2026
-
-A threat actor tracked as Storm-2561 is distributing fake enterprise VPN clients from Ivanti, Cisco, and Fortinet to steal VPN credentials from unsuspecting users. [...]
-
-
-### [Starbucks discloses data breach affecting hundreds of employees](https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/)
-📅 March 13, 2026
-
-Starbucks has disclosed a data breach affecting hundreds of employees after threat actors gained access to their Starbucks Partner Central accounts. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
+📅 March 16, 2026
+
+Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team. The campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by L...
+
+
+### [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
+📅 March 16, 2026
+
+Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API. The change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week. AAPM was introduced by Google i...
+
 
 ### [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 📅 March 14, 2026
@@ -192,18 +204,6 @@ Disclaimer: This report has been prepared by the Threat Research Center to enhan
 📅 March 13, 2026
 
 Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild. The list of vulnerabilities is as follows - CVE-2026-3909 (CVSS score: 8.8) - An out-of-bounds write vulnerability in the Skia 2D graphic...
-
-
-### [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
-📅 March 13, 2026
-
-Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections, escalate to root, and undermine container isolation guarantees. The nine confused deputy vulnerabilitie...
-
-
-### [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
-📅 March 13, 2026
-
-A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for committing large-scale fraud. "SocksEscort infected home and small business internet routers with malware," ...
 
 
 ---
