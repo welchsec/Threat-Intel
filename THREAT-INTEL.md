@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **March 20, 2026 at 08:42 UTC**  
+> Last updated: **March 21, 2026 at 08:35 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,42 @@ The cybercriminals in control of Kimwolf -- a disruptive botnet that has infecte
 
 ## 💻 Bleeping Computer
 
+### [FBI links Signal phishing attacks to Russian intelligence services](https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/)
+📅 March 20, 2026
+
+The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have already compromised thousands of accounts. [...]
+
+
+### [Oracle pushes emergency fix for critical Identity Manager RCE flaw](https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/)
+📅 March 20, 2026
+
+Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web Services Manager tracked as CVE-2026-21992. [...]
+
+
+### [Police take down 373,000 fake CSAM sites in Operation Alice](https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/)
+📅 March 20, 2026
+
+An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages. [...]
+
+
+### [CISA orders feds to patch max-severity Cisco flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/)
+📅 March 20, 2026
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity vulnerability, CVE-2026-20131, in Cisco Secure Firewall Management Center (FMC) by Sunday, March 22. [...]
+
+
+### [How CISOs Can Survive the Era of Geopolitical Cyberattacks](https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/)
+📅 March 20, 2026
+
+Geopolitical tensions are driving destructive cyberattacks designed to disrupt operations, not demand ransom. CISOs must limit lateral movement and contain breaches to reduce the impact of wiper campaigns. [...]
+
+
+### [Musician admits to $10M streaming royalty fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/)
+📅 March 20, 2026
+
+North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [...]
+
+
 ### [International joint action disrupts world’s largest DDoS botnets](https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/)
 📅 March 20, 2026
 
@@ -106,45 +142,45 @@ A North Carolina man was found guilty of extorting a D.C.-based technology compa
 Navia Benefit Solutions, Inc. (Navia) is informing nearly 2.7 million individuals of a data breach that exposed their sensitive information to attackers. [...]
 
 
-### [New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores](https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/)
-📅 March 19, 2026
-
-A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover. [...]
-
-
-### [Bitrefill blames North Korean Lazarus group for cyberattack](https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/)
-📅 March 19, 2026
-
-Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers of the Bluenoroff group. [...]
-
-
-### [FBI seizes Handala data leak site after Stryker cyberattack](https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/)
-📅 March 19, 2026
-
-The FBI has seized two websites used by the Handala hacktivist group after the threat actors conducted a destructive cyberattack on medical technology giant Stryker that wiped approximately 80,000 devices. [...]
-
-
-### [Russian hackers exploit Zimbra flaw in Ukrainian govt attacks](https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/)
-📅 March 19, 2026
-
-Hackers part of APT28, a state-backed threat group linked to Russia's military intelligence service (GRU), are exploiting a Zimbra Collaboration Suite (ZCS) vulnerability in attacks targeting Ukrainian government entities. [...]
-
-
-### [7 Ways to Prevent Privilege Escalation via Password Resets](https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/)
-📅 March 19, 2026
-
-Password resets are often weaker than login security, making them a prime target for privilege escalation. Specops Software explains how attackers abuse reset workflows and how to secure them. [...]
-
-
-### [Max severity Ubiquiti UniFi flaw may allow account takeover](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/)
-📅 March 19, 2026
-
-Ubiquiti has patched two vulnerabilities in the UniFi Network Application, including a maximum-severity flaw that may allow attackers to take over user accounts. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
+📅 March 21, 2026
+
+The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to...
+
+
+### [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html)
+📅 March 20, 2026
+
+Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets. The latest incident impacted GitHub Actions "aquasecurity/trivy-action" and "aquasecurity/setup-trivy," whic...
+
+
+### [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html)
+📅 March 20, 2026
+
+A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabilities. The security defect, tracked as CVE-2026-33017 (CVSS score: 9.3), is a case of missing authent...
+
+
+### [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html)
+📅 March 20, 2026
+
+Google on Thursday announced a new "advanced flow" for Android sideloading that requires a mandatory 24-hour wait period to install apps from unverified developers in an attempt to balance openness with safety. The new changes come against the backdrop of a developer verification mandate the tech gi...
+
+
+### [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html)
+📅 March 20, 2026
+
+Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI to generate personalized phishing emails, deepfakes and malware that evade traditional ...
+
+
+### [Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover](https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html)
+📅 March 20, 2026
+
+Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover. The vulnerability has been codenamed PolyShell by Sansec owing to the fact that the attack hinges on disguis...
+
 
 ### [DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks](https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html)
 📅 March 20, 2026
@@ -168,42 +204,6 @@ Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks
 📅 March 19, 2026
 
 A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable drivers. EDR killer programs have been a common presence in ransomware intrusions as they offer a wa...
-
-
-### [ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More](https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html)
-📅 March 19, 2026
-
-ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a lot of small things that shouldn&rsquo;t work anymore but still do. Some of it looks simple, almost sloppy, until you see how well it lands. Other bits...
-
-
-### [New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data](https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html)
-📅 March 19, 2026
-
-Cybersecurity researchers have disclosed a new Android malware family called Perseus that's being actively distributed in the wild with an aim to conduct device takeover (DTO) and financial fraud. Perseus is built upon the foundations of Cerberus and Phoenix, at the same time evolving into a "more f...
-
-
-### [How Ceros Gives Security Teams Visibility and Control in Claude Code](https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html)
-📅 March 19, 2026
-
-Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it operates entirely outside those controls. Claude Code, Anthropic's AI coding agent, is now running across e...
-
-
-### [DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover](https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html)
-📅 March 19, 2026
-
-A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat Intelligence Group (GTIG), iVerify, and Lookout. According to GTIG, multiple commercial surveillance vendors ...
-
-
-### [CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks](https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html)
-📅 March 19, 2026
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have been actively exploited in the wild. The vulnerabilities in que...
-
-
-### [OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs](https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html)
-📅 March 18, 2026
-
-The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker scheme with an aim to defraud U.S. businesses and generate illici...
 
 
 ---
