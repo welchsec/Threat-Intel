@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **March 27, 2026 at 08:55 UTC**  
+> Last updated: **March 28, 2026 at 08:41 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,42 @@ A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLS
 
 ## 💻 Bleeping Computer
 
+### [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
+📅 March 27, 2026
+
+TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malware hidden inside a WAV file. [...]
+
+
+### [Fake VS Code alerts on GitHub spread malware to developers](https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/)
+📅 March 27, 2026
+
+A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware. [...]
+
+
+### [Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.](https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/)
+📅 March 27, 2026
+
+Agentic GRC automates workflows, forcing teams to rethink their role beyond operations. Anecdotes explains why the biggest challenge is shifting from execution to risk leadership. [...]
+
+
+### [European Commission investigating breach after Amazon cloud account hack](https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/)
+📅 March 27, 2026
+
+The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to the Commission's Amazon cloud environment. [...]
+
+
+### [Anti-piracy coalition takes down AnimePlay app with 5 million users](https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/)
+📅 March 27, 2026
+
+The Alliance for Creativity and Entertainment (ACE) announced the shutdown of AnimePlay, a major anime streaming platform with over 5 million users. [...]
+
+
+### [Windows 11 KB5079391 update rolls out Smart App Control improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/)
+📅 March 27, 2026
+
+​Microsoft has released the KB5079391 preview cumulative update for Windows 11 24H2 and 25H2, which includes 29 changes, such as Smart App Control and Display improvements. [...]
+
+
 ### [Dutch Police discloses security breach after phishing attack](https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/)
 📅 March 27, 2026
 
@@ -106,45 +142,57 @@ The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hack
 The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketplace that sells stolen data and satellite internet equipment to scam networks in Southeast Asia. [...]
 
 
-### [TikTok for Business accounts targeted in new phishing campaign](https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/)
-📅 March 26, 2026
-
-Threat actors are targeting TikTok for Business accounts in a phishing campaign that prevents security bots from analyzing malicious pages. [...]
-
-
-### [WhatsApp rolls out more AI features, iOS multi-account support](https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/)
-📅 March 26, 2026
-
-WhatsApp is rolling out multiple features designed to make the app easier to use, including AI-powered message replies and photo retouching, support for two accounts on iOS, and chat history transfer between iOS and Android devices. [...]
-
-
-### [Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers](https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/)
-📅 March 26, 2026
-
-Multi-stage fraud attacks chain bots, proxies, and stolen credentials from signup to takeover. IPQS shows why correlating IP, device, identity, and behavior is critical to stop it. [...]
-
-
-### [Coruna iOS exploit framework linked to Triangulation attacks](https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/)
-📅 March 26, 2026
-
-The Coruna exploit kit is an evolution of the framework used in the Operation Triangulation espionage campaign, which in 2023 targeted iPhones via zero-click iMessage exploits. [...]
-
-
-### [Russia arrests suspected owner of LeakBase cybercrime forum](https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/)
-📅 March 26, 2026
-
-Russian police arrested a Taganrog resident believed to be the owner of LeakBase, a major online forum used by cybercriminals to buy and sell stolen data and hacking tools. [...]
-
-
-### [Suspected RedLine infostealer malware admin extradited to US](https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/)
-📅 March 26, 2026
-
-An Armenian suspect was extradited to the United States to face criminal charges for allegedly helping manage RedLine, one of the most prolific infostealer malware operations in recent years. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
+📅 March 28, 2026
+
+Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446...
+
+
+### [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
+📅 March 28, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-53521 (CVS...
+
+
+### [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
+📅 March 27, 2026
+
+Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. "Apple is aware of attacks targeting out-of-date iOS software, includ...
+
+
+### [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
+📅 March 27, 2026
+
+TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March ...
+
+
+### [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
+📅 March 27, 2026
+
+Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) extension to pass the vetting process and go live in the registry. "The pipeline had a single boolean...
+
+
+### [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
+📅 March 27, 2026
+
+Threat actors are using adversary-in-the-middle (AitM) phishing pages to seize control of TikTok for Business accounts in a new campaign, according to a report from Push Security. Business accounts associated with social media platforms are a lucrative target, as they can be weaponized by bad actors...
+
+
+### [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
+📅 March 27, 2026
+
+Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let’s admit it: we are in the middle of it.&nbsp; Introduction: One tech power to rule them all is a thing of the past&nbsp; The relative safety, peace and pros...
+
+
+### [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
+📅 March 27, 2026
+
+A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware strain codenamed GenieLocker. "Bearlyfy (also known as Labub...
+
 
 ### [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
 📅 March 27, 2026
@@ -156,54 +204,6 @@ Cybersecurity researchers have disclosed three security vulnerabilities impactin
 📅 March 26, 2026
 
 A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks. The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, h...
-
-
-### [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html)
-📅 March 26, 2026
-
-Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control. But one question usually stays unanswered: Would your defenses actually stop a real attack? That’s where things get shaky. A control exists, ...
-
-
-### [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html)
-📅 March 26, 2026
-
-Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page. The flaw "allowed any website to silently inject prompts into that assistant as if the user wrote them," K...
-
-
-### [Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception](https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html)
-📅 March 26, 2026
-
-Unmasking impostors is something the art world has faced for decades, and there are valuable lessons from the works of Elmyr de Hory that can apply to the world of defensive cybersecurity. During the 1960s, de Hory gained infamy as a premier forger, passing off counterfeit masterworks of Picasso, Ma...
-
-
-### [ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories](https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html)
-📅 March 26, 2026
-
-Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn&rsquo;t even be touching. There&rsquo;s a little bit of everything in this one, too. Weird ...
-
-
-### [Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks](https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html)
-📅 March 26, 2026
-
-The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation Triangulation campaign back in 2023, according to new findings from Kaspersky. "When Coruna was first repo...
-
-
-### [WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites](https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html)
-📅 March 26, 2026
-
-Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls. "Instead of the usual HTTP requests or image beacons, this malware uses WebRTC data channels to load its payload...
-
-
-### [LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace](https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html)
-📅 March 25, 2026
-
-The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday. According to TASS and MVD Media, a news website linked to the Russian Interior Ministry, the suspect is a resident of the city of Taganrog. The suspect ...
-
-
-### [GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data](https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html)
-📅 March 25, 2026
-
-Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Google Chrome extension masquerading as an offline version of ...
 
 
 ---
