@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **March 28, 2026 at 08:41 UTC**  
+> Last updated: **March 29, 2026 at 08:42 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,12 @@ A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLS
 
 ## 💻 Bleeping Computer
 
+### [New Infinity Stealer malware grabs macOS data via ClickFix lures](https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/)
+📅 March 28, 2026
+
+A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler. [...]
+
+
 ### [Backdoored Telnyx PyPI package pushes malware hidden in WAV audio](https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/)
 📅 March 27, 2026
 
@@ -136,15 +142,21 @@ Dutch professional football club Ajax Amsterdam (AFC Ajax) disclosed that a hack
 The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE-2026-33017, which affects the Langflow framework for building AI agents. [...]
 
 
-### [UK sanctions Xinbi marketplace linked to Asian scam centers](https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/)
-📅 March 26, 2026
-
-The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketplace that sells stolen data and satellite internet equipment to scam networks in Southeast Asia. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
+📅 March 28, 2026
+
+Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet. Handala Hack Team, which carried out the breach, said on its website tha...
+
+
+### [Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
+📅 March 28, 2026
+
+A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to me...
+
 
 ### [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
 📅 March 28, 2026
@@ -192,18 +204,6 @@ Rising geopolitical tensions are reflected (or in some cases preceded) by cyber 
 📅 March 27, 2026
 
 A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware strain codenamed GenieLocker. "Bearlyfy (also known as Labub...
-
-
-### [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html)
-📅 March 27, 2026
-
-Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history. Both LangChain and LangGraph are open-source frameworks that are used to build appli...
-
-
-### [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html)
-📅 March 26, 2026
-
-A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks. The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, h...
 
 
 ---
