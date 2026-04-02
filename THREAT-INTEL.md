@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 01, 2026 at 09:07 UTC**  
+> Last updated: **April 02, 2026 at 08:59 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,69 +82,111 @@ A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLS
 
 ## 💻 Bleeping Computer
 
+### [Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/)
+📅 April 02, 2026
+
+Internet security watchdog Shadowserver has found over 14,000 BIG-IP APM instances exposed online amid ongoing attacks exploiting a critical-severity remote code execution (RCE) vulnerability. [...]
+
+
+### [New CrystalRAT malware adds RAT, stealer and prankware features](https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/)
+📅 April 01, 2026
+
+A new malware-as-a-service called CrystalRAT is being promoted on Telegram, offering remote access, data theft, keylogging, and clipboard hijacking capabilities. [...]
+
+
+### [Apple expands iOS 18 updates to more iPhones to block DarkSword attacks](https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/)
+📅 April 01, 2026
+
+Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]
+
+
+### [Hackers exploit TrueConf zero-day to push malicious software updates](https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/)
+📅 April 01, 2026
+
+Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints. [...]
+
+
+### [New EvilTokens service fuels Microsoft device code phishing attacks](https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/)
+📅 April 01, 2026
+
+A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks. [...]
+
+
+### ['NoVoice' Android malware on Google Play infected 2.3 million devices](https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/)
+📅 April 01, 2026
+
+A new Android malware named NoVoice was found on Google Play, hidden in more than 50 apps that were downloaded at least 2.3 million times. [...]
+
+
+### [Routine Access Is Powering Modern Intrusions, a New Threat Report Finds](https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/)
+📅 April 01, 2026
+
+Modern intrusions increasingly start with valid credentials and routine access, not exploits. Blackpoint Cyber's upcoming threat report shows how VPN abuse, RMM tools, and social engineering drive most incidents. [...]
+
+
+### [FBI warns against using Chinese mobile apps due to privacy risks](https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/)
+📅 April 01, 2026
+
+The U.S. Federal Bureau of Investigation (FBI) warned Americans against using foreign-developed mobile applications, particularly those created by Chinese developers. [...]
+
+
+### [Google fixes fourth Chrome zero-day exploited in attacks in 2026](https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/)
+📅 April 01, 2026
+
+Google has fixed the fourth Chrome vulnerability exploited in zero-day attacks since the start of the year. [...]
+
+
 ### [Google Drive ransomware detection now on by default for paying users](https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/)
 📅 April 01, 2026
 
 Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users. [...]
 
 
-### [New Windows 11 emergency update fixes preview update install issues](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/)
-📅 April 01, 2026
-
-Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]
-
-
-### [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
-📅 April 01, 2026
-
-Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]
-
-
-### [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
-📅 March 31, 2026
-
-Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]
-
-
-### [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
-📅 March 31, 2026
-
-Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]
-
-
-### [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
-📅 March 31, 2026
-
-The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]
-
-
-### [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
-📅 March 31, 2026
-
-Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]
-
-
-### [Cisco source code stolen in Trivy-linked dev environment breach](https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/)
-📅 March 31, 2026
-
-Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers. [...]
-
-
-### [How to Categorize AI Agents and Prioritize Risk](https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/)
-📅 March 31, 2026
-
-AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first. [...]
-
-
-### [Hackers compromise Axios npm package to drop cross-platform malware](https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/)
-📅 March 31, 2026
-
-Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client with 100M+ weekly downloads, to deliver remote access trojans to Linux, Windows, and macOS systems. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit](https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html)
+📅 April 02, 2026
+
+Apple&nbsp;on&nbsp;Wednesday expanded the availability of iOS 18.7.7&nbsp;and iPadOS 18.7.7&nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known&nbsp;as DarkSword. "We enabled the availability of iOS 18.7.7&nbsp;for more devices on April 1...
+
+
+### [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
+📅 April 01, 2026
+
+The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE. As part of the attacks, the threat actors, tracked as UAC-0255, sent ema...
+
+
+### [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
+📅 April 01, 2026
+
+Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling re...
+
+
+### [Block the Prompt, Not the Work: The End of "Doctor No"](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
+📅 April 01, 2026
+
+There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn&rsquo;t build. It doesn&rsquo;t enable. Its entire function is to say "No." No to ChatGPT. No to DeepSeek. No to the file-sharing tool the product team swears by. For years...
+
+
+### [Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures](https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html)
+📅 April 01, 2026
+
+A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another malware called Horabot. The activity has been attributed to a Brazilian cybercrime threat actor tracke...
+
+
+### [New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released](https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html)
+📅 April 01, 2026
+
+Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild. The high-severity vulnerability, CVE-2026-5281 (CVSS score: N/A), concerns a use-after-free bug in Dawn, an open-source and cr...
+
+
+### [3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)](https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html)
+📅 April 01, 2026
+
+For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next. Threat actors now use malware less frequently in favor of what’s already inside your environment, including abusing trusted tools, native binaries, and legitimate admi...
+
 
 ### [Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069](https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html)
 📅 April 01, 2026
@@ -162,48 +204,6 @@ Anthropic on Tuesday confirmed that internal code for its popular artificial int
 📅 March 31, 2026
 
 Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while "hiding behind anonymity." The development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, ...
-
-
-### [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
-📅 March 31, 2026
-
-A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos. The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity ...
-
-
-### [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
-📅 March 31, 2026
-
-Cybersecurity researchers have disclosed a security "blind spot" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment. According to Pa...
-
-
-### [The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
-📅 March 31, 2026
-
-The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments. This is the defining challe...
-
-
-### [Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
-📅 March 31, 2026
-
-Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. "The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocu...
-
-
-### [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
-📅 March 31, 2026
-
-The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems. Versions 1.14.1 and 0.30.4 of Axios have been found to inje...
-
-
-### [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
-📅 March 30, 2026
-
-A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point. "A single malicious prompt could turn an otherwise ordinary conversation into a covert exfiltration channel, leaki...
-
-
-### [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
-📅 March 30, 2026
-
-A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad. "It likely uses AI-assisted obfuscation and process injection to evade static scanning, while credential theft starts immediately and captures ...
 
 
 ---
