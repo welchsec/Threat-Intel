@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 04, 2026 at 08:42 UTC**  
+> Last updated: **April 05, 2026 at 08:46 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,7 +82,19 @@ A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLS
 
 ## 💻 Bleeping Computer
 
-### [LinkedIn secretely scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/)
+### [Axios npm hack used fake Teams error fix to hijack maintainer account](https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/)
+📅 April 04, 2026
+
+The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social engineering campaign believed to have been conducted by North Korean threat actors. [...]
+
+
+### [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/)
+📅 April 04, 2026
+
+Device code phishing attacks that abuse the OAuth 2.0 Device Authorization Grant flow to hijack accounts have surged more than 37 times this year. [...]
+
+
+### [LinkedIn secretly scans for 6,000+ Chrome extensions, collects data](https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/)
 📅 April 03, 2026
 
 A new report dubbed "BrowserGate" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]
@@ -130,21 +142,21 @@ Starting this week, Microsoft has begun force-upgrading unmanaged devices runnin
 The European Union's Cybersecurity Service (CERT-EU) has attributed the European Commission cloud hack to the TeamPCP threat group, saying the resulting breach exposed the data of at least 29 other Union entities. [...]
 
 
-### [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
-📅 April 02, 2026
-
-Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. [...]
-
-
-### [Drift loses $280 million as North Korean hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/)
-📅 April 02, 2026
-
-The Drift Protocol lost at least $280 million after a threat actor took control of its Security Council administrative powers in a planned, sophisticated operation. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
+📅 April 05, 2026
+
+Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent&nbsp;implant. "Every packag...
+
+
+### [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
+📅 April 05, 2026
+
+Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild. The&nbsp;vulnerability, tracked&nbsp;as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privile...
+
 
 ### [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
 📅 April 03, 2026
@@ -192,18 +204,6 @@ A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed e
 📅 April 02, 2026
 
 Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges. The&nbsp;vulnerability, ...
-
-
-### [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html)
-📅 April 02, 2026
-
-The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week. Things&nbsp;are moving fast. The&nbsp;list incl...
-
-
-### [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html)
-📅 April 02, 2026
-
-A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November&nbsp;2023. "Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fr...
 
 
 ---
