@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 09, 2026 at 09:09 UTC**  
+> Last updated: **April 10, 2026 at 09:12 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,69 +82,117 @@ For the past week, the massive "Internet of Things" (IoT) botnet known as Kimwol
 
 ## 💻 Bleeping Computer
 
+### [New ‘LucidRook’ malware used in targeted attacks on NGOs, universities](https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/)
+📅 April 09, 2026
+
+A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan. [...]
+
+
+### [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)
+📅 April 09, 2026
+
+Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called "VENOM" are targeting credentials of C-suite executives across multiple industries. [...]
+
+
+### [Healthcare IT solutions provider ChipSoft hit by ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/)
+📅 April 09, 2026
+
+Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. [...]
+
+
+### [Google Chrome adds infostealer protection against session cookie theft](https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/)
+📅 April 09, 2026
+
+Google has rolled out Device Bound Session Credentials (DBSC) protection in Chrome 146 for Windows, designed to block info-stealing malware from harvesting session cookies. [...]
+
+
+### [Smart Slider updates hijacked to push malicious WordPress, Joomla versions](https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/)
+📅 April 09, 2026
+
+Hackers hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla, and pushed a malicious version with multiple backdoors. [...]
+
+
+### [When attackers already have the keys, MFA is just another door to open](https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/)
+📅 April 09, 2026
+
+Stolen credentials turn authentication systems into the attack surface. Token shows how wearable biometric authentication verifies the user—not the session—blocking phishing relays and MFA bypass. [...]
+
+
+### [Webinar: From noise to signal - What threat actors are targeting next](https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/)
+📅 April 09, 2026
+
+Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests. Join our upcoming webinar with Flare Systems to learn how to turn those early warning signs into proactive defensive action before an intrusion begins. [...]
+
+
+### [Eurail says December data breach impacts 300,000 individuals](https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/)
+📅 April 09, 2026
+
+Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data breach. [...]
+
+
+### [Hackers exploiting Acrobat Reader zero-day flaw since December](https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/)
+📅 April 09, 2026
+
+Attackers have been exploiting a zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December. [...]
+
+
 ### [Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot](https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/)
 📅 April 09, 2026
 
 Bitcoin Depot, which operates one of the largest Bitcoin ATM networks, says attackers stole $3.665 million worth of Bitcoin from its crypto wallets after breaching its systems last month. [...]
 
 
-### [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/)
-📅 April 09, 2026
-
-Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quickly reinstate them, effectively blocking them from publishing new software builds and security patches for Windows users. [...]
-
-
-### [Hackers use pixel-large SVG trick to hide credit card stealer](https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/)
-📅 April 08, 2026
-
-A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable Vector Graphics (SVG) image. [...]
-
-
-### [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
-📅 April 08, 2026
-
-A threat actor tracked as UNC6783 is compromising business process outsourcing (BPO) providers to gain access to high-value companies across multiple sectors. [...]
-
-
-### [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
-📅 April 08, 2026
-
-A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]
-
-
-### [CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/)
-📅 April 08, 2026
-
-CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since January. [...]
-
-
-### [13-year-old bug in ActiveMQ lets hackers remotely execute commands](https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/)
-📅 April 08, 2026
-
-Security researchers discovered a remote code execution (RCE) vulnerability in Apache ActiveMQ Classic that has gone undetected for 13 years and could be exploited to execute arbitrary commands. [...]
-
-
-### [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
-📅 April 08, 2026
-
-A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwords. [...]
-
-
-### [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
-📅 April 08, 2026
-
-Microsoft has pushed a server-side fix for a known issue that broke the Windows Start Menu search feature on some Windows 11 23H2 devices. [...]
-
-
-### [Hackers exploit critical flaw in Ninja Forms WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/)
-📅 April 07, 2026
-
-A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
+📅 April 10, 2026
+
+Google has&nbsp;made Device Bound Session Credentials&nbsp;(DBSC) generally available to all Windows users of its Chrome web browser, months after&nbsp;it began&nbsp;testing the security feature in open&nbsp;beta. The public availability is currently limited to Windows users on Chrome 146, with macO...
+
+
+### [Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
+📅 April 10, 2026
+
+Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a backdoor. The incident impacts Smart Slider 3 Pro version 3.5.1.35 for WordPress, per WordPress security company Patchstack. Smart Slider 3 is a po...
+
+
+### [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
+📅 April 09, 2026
+
+Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions of cryptocurrency wallet users at&nbsp;risk. "This flaw allows apps on the same device to bypass Androi...
+
+
+### [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
+📅 April 09, 2026
+
+A previously undocumented threat cluster&nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook. "LucidRook is a sophisticated stager that embeds a L...
+
+
+### [ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html)
+📅 April 09, 2026
+
+Thursday. Another week, another batch of things that probably should've been caught sooner but&nbsp;weren't. This&nbsp;one's got some range — old vulnerabilities getting new life, a few "why was that even possible" moments, attackers leaning on platforms and tools you'd normally trust without thinki...
+
+
+### [The Hidden Security Risks of Shadow AI in Enterprises](https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html)
+📅 April 09, 2026
+
+As&nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&nbsp;these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the visibility of security teams, bypassing controls a...
+
+
+### [Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025](https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html)
+📅 April 09, 2026
+
+Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&nbsp;2025. The finding, detailed by EXPMON's Haifei Li, has&nbsp;been described as a highly-sophisticated PDF exploit.&nbsp;The artifact ("In...
+
+
+### [Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region](https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html)
+📅 April 09, 2026
+
+An&nbsp;apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East and North Africa (MENA), according to findings&nbsp;from Access&nbsp;Now, Lookout,&nbsp;and SMEX...
+
 
 ### [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html)
 📅 April 08, 2026
@@ -156,54 +204,6 @@ Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called 
 📅 April 08, 2026
 
 Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks. Called Masjesu, the botnet has been advertised via Telegram as a DDoS-for-hire service since it first surfaced in 2023. It's capable of targeting a wide range...
-
-
-### [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html)
-📅 April 08, 2026
-
-The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumented malware suite&nbsp;codenamed PRISMEX. "PRISMEX combines advanced steganography, component object m...
-
-
-### [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html)
-📅 April 08, 2026
-
-The Fragmented State of Modern Enterprise&nbsp;Identity Enterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous&nbsp;systems.&nbsp; The result is Id...
-
-
-### [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html)
-📅 April 08, 2026
-
-Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude Mythos,&nbsp;to find and address security vulnerabilities. The model will&nbsp;be used by&nbsp;a smal...
-
-
-### [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html)
-📅 April 08, 2026
-
-The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems. "The threat actor's packages were designed to impersonate legitimate developer tooling [...], while quietly functio...
-
-
-### [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html)
-📅 April 08, 2026
-
-Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecurity and intelligence&nbsp;agencies warned&nbsp;Tuesday. "These attacks have led to diminished PLC fun...
-
-
-### [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html)
-📅 April 07, 2026
-
-The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under their control as part of a cyber espionage campaign since...
-
-
-### [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html)
-📅 April 07, 2026
-
-In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasing. According to new research from&nbsp;the Ponemon&nbsp;Institute, hundreds of applications within t...
-
-
-### [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html)
-📅 April 07, 2026
-
-A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins&nbsp;(AuthZ) under specific circumstances. The vulnerability, tracked&nbsp;as CVE-2026-34040 (CVSS score: 8.8), stems from an incomplete fix&nbsp;for CVE-2024-4111...
 
 
 ---
