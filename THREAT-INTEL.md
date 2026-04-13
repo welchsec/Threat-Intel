@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 12, 2026 at 08:52 UTC**  
+> Last updated: **April 13, 2026 at 09:56 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,12 @@ For the past week, the massive "Internet of Things" (IoT) botnet known as Kimwol
 
 ## 💻 Bleeping Computer
 
+### [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
+📅 April 12, 2026
+
+A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]
+
+
 ### [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
 📅 April 11, 2026
 
@@ -136,15 +142,15 @@ A new Lua-based malware, called LucidRook, is being used in spear-phishing campa
 Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called "VENOM" are targeting credentials of C-suite executives across multiple industries. [...]
 
 
-### [Healthcare IT solutions provider ChipSoft hit by ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/)
-📅 April 09, 2026
-
-Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
+📅 April 13, 2026
+
+OpenAI&nbsp;revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or&nbsp;internal system&nbsp;was compromised. "Out of an abundance of caution, we are taking steps to protect the process that certifies o...
+
 
 ### [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
 📅 April 12, 2026
@@ -198,12 +204,6 @@ Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro
 📅 April 09, 2026
 
 Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions of cryptocurrency wallet users at&nbsp;risk. "This flaw allows apps on the same device to bypass Androi...
-
-
-### [UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns](https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html)
-📅 April 09, 2026
-
-A previously undocumented threat cluster&nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook. "LucidRook is a sophisticated stager that embeds a L...
 
 
 ---
