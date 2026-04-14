@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 13, 2026 at 09:56 UTC**  
+> Last updated: **April 14, 2026 at 09:20 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,54 @@ For the past week, the massive "Internet of Things" (IoT) botnet known as Kimwol
 
 ## 💻 Bleeping Computer
 
+### [European Gym giant Basic-Fit data breach affects 1 million members](https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/)
+📅 April 13, 2026
+
+Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]
+
+
+### [Stolen Rockstar Games analytics data leaked by extortion gang](https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/)
+📅 April 13, 2026
+
+Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]
+
+
+### [Critical flaw in wolfSSL library enables forged certificate use](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/)
+📅 April 13, 2026
+
+A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA) signatures. [...]
+
+
+### [FBI takedown of W3LL phishing service leads to developer arrest](https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/)
+📅 April 13, 2026
+
+The FBI Atlanta Field Office and Indonesian authorities have dismantled the "W3LL" global phishing platform, seizing infrastructure and arresting the alleged developer in what is described as the first coordinated enforcement action between the United States and Indonesia targeting a phishing kit de...
+
+
+### [OpenAI rotates macOS certs after Axios attack hit code-signing workflow](https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/)
+📅 April 13, 2026
+
+OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a recent supply chain attack. [...]
+
+
+### [New Booking.com data breach forces reservation PIN resets](https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/)
+📅 April 13, 2026
+
+Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reservation and user data. [...]
+
+
+### [Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw](https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/)
+📅 April 13, 2026
+
+Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]
+
+
+### [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
+📅 April 13, 2026
+
+New "Storm" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hijacking, bypassing passwords and MFA. [...]
+
+
 ### [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
 📅 April 12, 2026
 
@@ -94,116 +142,68 @@ A critical pre-authentication remote code execution (RCE) vulnerability in Marim
 An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]
 
 
-### [ChatGPT rolls out new $100 Pro subscription to challenge Claude](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/)
-📅 April 11, 2026
-
-OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan. [...]
-
-
-### [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
-📅 April 10, 2026
-
-The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rockwell Automation. [...]
-
-
-### [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
-📅 April 10, 2026
-
-Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them. [...]
-
-
-### [CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
-📅 April 10, 2026
-
-Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]
-
-
-### [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
-📅 April 10, 2026
-
-A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]
-
-
-### [Google rolls out Gmail end-to-end encryption on mobile devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/)
-📅 April 10, 2026
-
-Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools. [...]
-
-
-### [New ‘LucidRook’ malware used in targeted attacks on NGOs, universities](https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/)
-📅 April 09, 2026
-
-A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan. [...]
-
-
-### [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)
-📅 April 09, 2026
-
-Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called "VENOM" are targeting credentials of C-suite executives across multiple industries. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
 
+### [108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users](https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html)
+📅 April 14, 2026
+
+Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaSc...
+
+
+### [ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html)
+📅 April 14, 2026
+
+A critical security vulnerability&nbsp;impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the&nbsp;wild. The vulnerability in question&nbsp;is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4&nbsp;out of&nb...
+
+
+### [CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html)
+📅 April 14, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection v...
+
+
+### [JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025](https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html)
+📅 April 13, 2026
+
+Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT. A modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency data associated with specific financial entities, as well a...
+
+
+### [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html)
+📅 April 13, 2026
+
+The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit&nbsp;called W3LL to steal thousands of victims' account credentials and attempt mo...
+
+
+### [⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More](https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html)
+📅 April 13, 2026
+
+Monday&nbsp;is back, and the weekend’s backlog of chaos is officially hitting the fan. We&nbsp;are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming to light. It&nbsp;is one of tho...
+
+
+### [Your MTTD Looks Great. Your Post-Alert Gap Doesn't](https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html)
+📅 April 13, 2026
+
+Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike's ...
+
+
+### [North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware](https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html)
+📅 April 13, 2026
+
+The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delive...
+
+
 ### [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html)
 📅 April 13, 2026
 
-OpenAI&nbsp;revealed a GitHub Actions workflow used to sign its macOS apps, which downloaded the malicious Axios library on March 31, but noted that no user data or&nbsp;internal system&nbsp;was compromised. "Out of an abundance of caution, we are taking steps to protect the process that certifies o...
+OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised. "Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS a...
 
 
 ### [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html)
 📅 April 12, 2026
 
 Unknown threat actors compromised CPUID ("cpuid[.]com"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX&nbsp;RAT. Th...
-
-
-### [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html)
-📅 April 12, 2026
-
-Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild. The vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allo...
-
-
-### [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html)
-📅 April 11, 2026
-
-Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law&nbsp;enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called&nbsp;Webloc. The tool was developed by Israeli company Cobwebs Techn...
-
-
-### [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html)
-📅 April 10, 2026
-
-Cybersecurity researchers have flagged yet another evolution of the&nbsp;ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's&nbsp;machine. The technique has been discovered in an Open VSX ext...
-
-
-### [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html)
-📅 April 10, 2026
-
-While&nbsp;much of the discussion on AI security centers around protecting&nbsp;‘shadow’ AI and GenAI consumption, there's a wide-open&nbsp;window nobody's guarding: AI browser extensions.&nbsp; A&nbsp;new report from LayerX&nbsp;exposes just how deep this blind spot goes, and why AI extensions may ...
-
-
-### [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html)
-📅 April 10, 2026
-
-Google has&nbsp;made Device Bound Session Credentials&nbsp;(DBSC) generally available to all Windows users of its Chrome web browser, months after&nbsp;it began&nbsp;testing the security feature in open&nbsp;beta. The public availability is currently limited to Windows users on Chrome 146, with macO...
-
-
-### [Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure](https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html)
-📅 April 10, 2026
-
-A critical security vulnerability&nbsp;in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according&nbsp;to findings from&nbsp;Sysdig. The vulnerability in question&nbsp;is CVE-2026-39987 (CVSS score: 9.3), a pre-authenti...
-
-
-### [Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers](https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html)
-📅 April 10, 2026
-
-Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a backdoor. The incident impacts Smart Slider 3 Pro version 3.5.1.35 for WordPress, per WordPress security company Patchstack. Smart Slider 3 is a po...
-
-
-### [EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs](https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html)
-📅 April 09, 2026
-
-Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions of cryptocurrency wallet users at&nbsp;risk. "This flaw allows apps on the same device to bypass Androi...
 
 
 ---
