@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 16, 2026 at 09:21 UTC**  
+> Last updated: **April 17, 2026 at 09:19 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,128 +82,128 @@ Most phishing websites are little more than static copies of login pages for pop
 
 ## 💻 Bleeping Computer
 
-### [US nationals behind DPRK IT worker 'laptop farm' sent to prison](https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/)
+### [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
+📅 April 17, 2026
+
+Microsoft warns that some Windows domain controllers are entering restart loops after installing the April 2026 security updates. [...]
+
+
+### [Man gets 30 months for selling thousands of hacked DraftKings accounts](https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/)
+📅 April 17, 2026
+
+23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]
+
+
+### [Recently leaked Windows zero-days now exploited in attacks](https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/)
+📅 April 17, 2026
+
+Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]
+
+
+### [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
 📅 April 16, 2026
 
-Two U.S. nationals have been sent to prison for helping North Korean remote information technology (IT) workers to pose as U.S. residents and get hired by over 100 companies across the country, including many Fortune 500 firms. [...]
+The latest wave of "Operation PowerOFF," on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countries. [...]
 
 
-### [Microsoft: April Windows Server 2025 update may fail to install](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/)
+### [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
 📅 April 16, 2026
 
-Microsoft is investigating an issue causing this month's KB5082063 security update to fail to install on some Windows Server 2025 systems. [...]
+A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]
 
 
-### [Critical Nginx UI auth bypass flaw now actively exploited in the wild](https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/)
-📅 April 15, 2026
+### [New Microsoft Defender “RedSun” zero-day PoC grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/)
+📅 April 16, 2026
 
-A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication. [...]
-
-
-### [New AgingFly malware used in attacks on Ukraine govt, hospitals](https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/)
-📅 April 15, 2026
-
-A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger. [...]
+A researcher known as "Chaotic Eclipse" has published a proof-of-concept exploit for a second Microsoft Defender zero-day, dubbed "RedSun," in the past two weeks, protesting how the company works with cybersecurity researchers. [...]
 
 
-### [WordPress plugin suite hacked to push malware to thousands of sites](https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/)
-📅 April 15, 2026
+### [Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face](https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/)
+📅 April 16, 2026
 
-More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites running them. [...]
-
-
-### [Signed software abused to deploy antivirus-killing scripts](https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/)
-📅 April 15, 2026
-
-A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and healthcare sectors. [...]
+Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]
 
 
-### [Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/)
-📅 April 15, 2026
+### [Google expands Gemini AI use to fight malicious ads on its platform](https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/)
+📅 April 16, 2026
 
-Microsoft has awarded $2.3 million to security researchers after receiving nearly 700 submissions during this year's Zero Day Quest hacking contest. [...]
-
-
-### [CISA flags Windows Task Host vulnerability as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/)
-📅 April 15, 2026
-
-CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]
+Google says it is increasingly using its Gemini AI models to detect and block harmful ads on its advertising platforms, as scammers and threat actors continue to evolve their tactics to evade detection. [...]
 
 
-### [Rolling Networks: Securing the Transportation Sector](https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/)
-📅 April 15, 2026
+### [New ATHR vishing platform uses AI voice agents for automated attacks](https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/)
+📅 April 16, 2026
 
-Modern trucks are rolling networks packed with sensors, connectivity, and attack surfaces, creating new cyber risks. NMFTA's Cybersecurity Conference brings industry leaders together to tackle emerging threats in transportation. [...]
+A new cybercrime platform called ATHR can harvest credentials via fully automated voice phishing attacks that use both human operators and AI agents for the social engineering phase. [...]
 
 
-### [Microsoft: April updates trigger BitLocker key prompts on some servers](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/)
-📅 April 15, 2026
+### [Most "AI SOCs" Are Just Faster Triage. That's Not Enough.](https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/)
+📅 April 16, 2026
 
-Microsoft confirmed on Tuesday that some Windows Server 2025 devices will boot into BitLocker recovery after installing the April 2026 KB5082063 Windows security update. [...]
+AI-powered SOC tools promise automation, but most only speed up triage instead of reducing real workload. Tines shows how real gains come from end-to-end workflows that execute actions across systems, not just summarize alerts. [...]
 
 
 ---
 
 ## 🗞️ The Hacker News
 
+### [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
+📅 April 17, 2026
+
+The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE ...
+
+
+### [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
+📅 April 17, 2026
+
+An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals. The ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-f...
+
+
+### [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
+📅 April 17, 2026
+
+A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CISA). To that end, the agency&nbsp;has added the vulnerability, tracked&nbsp;as CVE-2026-34197 (CVSS s...
+
+
+### [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
+📅 April 16, 2026
+
+Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet&nbsp;dubbed PowMix since at least December&nbsp;2025. "PowMix employs randomized command-and-control (C2) beaconing intervals, rather than ...
+
+
+### [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
+📅 April 16, 2026
+
+You&nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&nbsp;lot? Yeah. This&nbsp;week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole "crime" part, ancient vulnerabilities somehow still ruining people's day...
+
+
+### [[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
+📅 April 16, 2026
+
+In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching. For every employee in your org, there are 40 to 50 automated credentials: service accounts, API to...
+
+
+### [Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution](https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html)
+📅 April 16, 2026
+
+Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the&nbsp;service. The details of the vulnerabilities are below&nbsp;- CVE-2026-20184 (...
+
+
+### [Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu](https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html)
+📅 April 16, 2026
+
+A&nbsp;bank approved a Taboola pixel. That&nbsp;pixel quietly redirected logged-in users to a Temu tracking endpoint. This&nbsp;occurred without the bank’s knowledge, without user consent, and without a single security control registering a violation. Read the full technical breakdown in the Securit...
+
+
+### [Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks](https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html)
+📅 April 16, 2026
+
+A "novel" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrenc...
+
+
 ### [UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign](https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html)
 📅 April 16, 2026
 
 The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and municipal healthcare institutions, mainly clinics and emergency hospitals, to deliver malware capable of stealing sensitive data from Chromium-based we...
-
-
-### [n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails](https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html)
-📅 April 15, 2026
-
-Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated&nbsp;emails. "By leveraging trusted infrastructur...
-
-
-### [Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover](https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html)
-📅 April 15, 2026
-
-A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&nbsp;wild. The vulnerability in question is CVE-2026-33032 (CVSS score: 9.8), an authentication bypass vulnerability that enables threat actors t...
-
-
-### [April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More](https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html)
-📅 April 15, 2026
-
-A number&nbsp;of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday&nbsp;releases. Topping the list is an SQL injection vulnerability impacting SAP Business Planning and Consolidation and SAP Business Warehouse&nbsp;(...
-
-
-### [Deterministic + Agentic AI: The Architecture Exposure Validation Requires](https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html)
-📅 April 15, 2026
-
-Few technologies have moved from experimentation to boardroom mandate as quickly as AI. Across&nbsp;industries, leadership teams have embraced its broader potential, and boards, investors, and executives are already pushing organizations to adopt it across operational and security functions.&nbsp;Pe...
-
-
-### [Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html)
-📅 April 15, 2026
-
-Microsoft on Tuesday released updates to address a&nbsp;record 169 security&nbsp;flaws across its product portfolio, including one vulnerability that&nbsp;has been actively&nbsp;exploited in the&nbsp;wild. Of these 169 vulnerabilities, 157 are rated Important, eight are rated&nbsp;Critical, three ar...
-
-
-### [OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html)
-📅 April 15, 2026
-
-OpenAI on Tuesday&nbsp;unveiled GPT-5.4-Cyber, a variant of its latest flagship&nbsp;model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its own frontier&nbsp;model, Mythos. "The progressive use of AI accelerates defenders – those ...
-
-
-### [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html)
-📅 April 14, 2026
-
-Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited, could result in arbitrary command execution. The vulnerabilities&nbsp;have been&nbsp;described as command injection flaws affecting the Perforce VCS ...
-
-
-### [Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html)
-📅 April 14, 2026
-
-Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational&nbsp;level. "The new Rust-based DNS parser significantly reduces our s...
-
-
-### [AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud](https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html)
-📅 April 14, 2026
-
-Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into&nbsp;Google's Discover&nbsp;feed and trick users into enabling persistent br...
 
 
 ---
