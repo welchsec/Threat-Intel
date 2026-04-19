@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 18, 2026 at 08:53 UTC**  
+> Last updated: **April 19, 2026 at 08:56 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,24 @@ Most phishing websites are little more than static copies of login pages for pop
 
 ## 💻 Bleeping Computer
 
+### [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
+📅 April 18, 2026
+
+Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]
+
+
+### [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
+📅 April 18, 2026
+
+Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]
+
+
+### [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
+📅 April 18, 2026
+
+NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]
+
+
 ### [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
 📅 April 17, 2026
 
@@ -122,24 +140,6 @@ Microsoft warns that some Windows domain controllers are entering restart loops 
 📅 April 17, 2026
 
 23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]
-
-
-### [Recently leaked Windows zero-days now exploited in attacks](https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/)
-📅 April 17, 2026
-
-Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator permissions. [...]
-
-
-### [Operation PowerOFF identifies 75k DDoS users, takes down 53 domains](https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/)
-📅 April 16, 2026
-
-The latest wave of "Operation PowerOFF," on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countries. [...]
-
-
-### [ZionSiphon malware designed to sabotage water treatment systems](https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/)
-📅 April 16, 2026
-
-A new malware called ZionSiphon, specifically designed for operational technology, is targeting water treatment and desalination environments to sabotage their operations. [...]
 
 
 ---
