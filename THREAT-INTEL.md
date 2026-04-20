@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 19, 2026 at 08:56 UTC**  
+> Last updated: **April 20, 2026 at 09:59 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,36 @@ Most phishing websites are little more than static copies of login pages for pop
 
 ## 💻 Bleeping Computer
 
+### [Microsoft pulls service update causing Teams launch failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/)
+📅 April 20, 2026
+
+Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]
+
+
+### [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
+📅 April 20, 2026
+
+Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]
+
+
+### [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+📅 April 19, 2026
+
+Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]
+
+
+### [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
+📅 April 19, 2026
+
+Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filters. [...]
+
+
+### [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
+📅 April 19, 2026
+
+The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]
+
+
 ### [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
 📅 April 18, 2026
 
@@ -112,39 +142,21 @@ The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor
 Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence agencies. [...]
 
 
-### [Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops](https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/)
-📅 April 17, 2026
-
-In cybercrime markets, trust isn't assumed, it's verified. Flare reveals how underground guides teach actors to evaluate carding shops based on data quality, reputation, and survivability. [...]
-
-
-### [Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/)
-📅 April 17, 2026
-
-Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and recovery strategies to reduce risk and maintain business continuity. [...]
-
-
-### [CISA flags Apache ActiveMQ flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/)
-📅 April 17, 2026
-
-CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]
-
-
-### [Microsoft: Some Windows servers enter reboot loops after April patches](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/)
-📅 April 17, 2026
-
-Microsoft warns that some Windows domain controllers are entering restart loops after installing the April 2026 security updates. [...]
-
-
-### [Man gets 30 months for selling thousands of hacked DraftKings accounts](https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/)
-📅 April 17, 2026
-
-23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
+📅 April 20, 2026
+
+Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems. The malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local config...
+
+
+### [Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
+📅 April 20, 2026
+
+Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to "certain" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the com...
+
 
 ### [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
 📅 April 18, 2026
@@ -192,18 +204,6 @@ An international law enforcement operation has taken down 53 domains and arreste
 📅 April 17, 2026
 
 A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CISA). To that end, the agency&nbsp;has added the vulnerability, tracked&nbsp;as CVE-2026-34197 (CVSS s...
-
-
-### [Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic](https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html)
-📅 April 16, 2026
-
-Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet&nbsp;dubbed PowMix since at least December&nbsp;2025. "PowMix employs randomized command-and-control (C2) beaconing intervals, rather than ...
-
-
-### [ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html)
-📅 April 16, 2026
-
-You&nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&nbsp;lot? Yeah. This&nbsp;week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole "crime" part, ancient vulnerabilities somehow still ruining people's day...
 
 
 ---
