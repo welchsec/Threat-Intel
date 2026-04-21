@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 20, 2026 at 09:59 UTC**  
+> Last updated: **April 21, 2026 at 09:41 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,69 +82,99 @@ Most phishing websites are little more than static copies of login pages for pop
 
 ## 💻 Bleeping Computer
 
+### [NGate Android malware uses HandyPay NFC app to steal card data](https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/)
+📅 April 21, 2026
+
+A new variant of the NGate malware that steals NFC payment data is targeting Android users by hiding in a trojanized version of HandyPay, a legitimate mobile payments processing tool. [...]
+
+
+### [KelpDAO suffers $290 million heist tied to Lazarus hackers](https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/)
+📅 April 20, 2026
+
+State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]
+
+
+### [China's Apple App Store infiltrated by crypto-stealing wallet apps](https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/)
+📅 April 20, 2026
+
+A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets. [...]
+
+
+### [The Gentlemen ransomware now uses SystemBC for bot-powered attacks](https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/)
+📅 April 20, 2026
+
+A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a Gentlemen ransomware attack carried out by a gang affiliate. [...]
+
+
+### [Seiko USA website defaced as hacker claims customer data theft](https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/)
+📅 April 20, 2026
+
+The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]
+
+
+### [Microsoft: Teams increasingly abused in helpdesk impersonation attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/)
+📅 April 20, 2026
+
+Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]
+
+
+### [The backup myth that is putting businesses at risk](https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/)
+📅 April 20, 2026
+
+Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]
+
+
+### [British Scattered Spider hacker pleads guilty to crypto theft charges](https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/)
+📅 April 20, 2026
+
+A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of wire fraud and aggravated identity theft. [...]
+
+
+### [Microsoft tests Windows Explorer speed, performance improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/)
+📅 April 20, 2026
+
+Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]
+
+
 ### [Microsoft pulls service update causing Teams launch failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/)
 📅 April 20, 2026
 
 Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]
 
 
-### [Microsoft releases emergency updates to fix Windows Server issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/)
-📅 April 20, 2026
-
-Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]
-
-
-### [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
-📅 April 19, 2026
-
-Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]
-
-
-### [Apple account change alerts abused to send phishing emails](https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/)
-📅 April 19, 2026
-
-Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filters. [...]
-
-
-### [NIST to stop rating non-priority flaws due to volume increase](https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/)
-📅 April 19, 2026
-
-The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]
-
-
-### [Critical flaw in Protobuf library enables JavaScript code execution](https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/)
-📅 April 18, 2026
-
-Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]
-
-
-### [Microsoft Teams right-click paste broken by Edge update bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/)
-📅 April 18, 2026
-
-Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]
-
-
-### [NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support](https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/)
-📅 April 18, 2026
-
-NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]
-
-
-### [Payouts King ransomware uses QEMU VMs to bypass endpoint security](https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/)
-📅 April 17, 2026
-
-The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. [...]
-
-
-### [Grinex exchange blames "Western intelligence" for $13.7M crypto hack](https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/)
-📅 April 17, 2026
-
-Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence agencies. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
+📅 April 21, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitation. The list of vulnerabilities is as fo...
+
+
+### [SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
+📅 April 20, 2026
+
+A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems. The vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of command injection lea...
+
+
+### [⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
+📅 April 20, 2026
+
+Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. Even update channels are used to push pay...
+
+
+### [Why Most AI Deployments Stall After the Demo](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
+📅 April 20, 2026
+
+The fastest way to fall in love with an AI tool is to watch the demo. Everything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your team. But most AI initiatives don't fail because of bad technology. They stall be...
+
+
+### [Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)
+📅 April 20, 2026
+
+Cybersecurity researchers have discovered a critical "by design" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain. "This flaw enables Arbitrary Command Execution ...
+
 
 ### [Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
 📅 April 20, 2026
@@ -174,36 +204,6 @@ Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K.
 📅 April 18, 2026
 
 Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42. The attack targeting TBK DVR devices has been found to exploi...
-
-
-### [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html)
-📅 April 17, 2026
-
-Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems. The activity involves&nbsp;the exploitation of three vulnerabilities that are codenamed BlueHammer (requires GitHub sign-in), RedSun...
-
-
-### [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html)
-📅 April 17, 2026
-
-Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025. The new policy updates relate to contact and location perm...
-
-
-### [NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions](https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html)
-📅 April 17, 2026
-
-The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE ...
-
-
-### [Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts](https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html)
-📅 April 17, 2026
-
-An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals. The ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-f...
-
-
-### [Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation](https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html)
-📅 April 17, 2026
-
-A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CISA). To that end, the agency&nbsp;has added the vulnerability, tracked&nbsp;as CVE-2026-34197 (CVSS s...
 
 
 ---
