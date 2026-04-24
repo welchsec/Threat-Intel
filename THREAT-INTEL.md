@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 23, 2026 at 09:45 UTC**  
+> Last updated: **April 24, 2026 at 09:45 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,69 +82,105 @@ In early January 2026, KrebsOnSecurity revealed how a security researcher disclo
 
 ## 💻 Bleeping Computer
 
-### [Apple fixes bug that let the FBI recover deleted Signal messages](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/)
-📅 April 22, 2026
+### [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
+📅 April 23, 2026
 
-Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]
-
-
-### [New Mirai campaign exploits RCE flaw in EoL D-Link routers](https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/)
-📅 April 22, 2026
-
-A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]
+Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]
 
 
-### [Kyber ransomware gang toys with post-quantum encryption on Windows](https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/)
-📅 April 22, 2026
+### [Bitwarden CLI npm package compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/)
+📅 April 23, 2026
 
-A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]
-
-
-### [Spain dismantles major $4.7M manga piracy platform, arrests four](https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/)
-📅 April 22, 2026
-
-The Spanish police have dismantled the largest Spanish-language manga piracy platform, operating since 2014, with millions of monthly users from around the globe. [...]
+The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]
 
 
-### [Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process](https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/)
-📅 April 22, 2026
+### [Trigona ransomware attacks use custom exfiltration tool to steal data](https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/)
+📅 April 23, 2026
 
-Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage "Caller-as-a-Service" operations like a professional sales team. [...]
-
-
-### [New npm supply-chain attack self-spreads to steal auth tokens](https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/)
-📅 April 22, 2026
-
-A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]
+Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]
 
 
-### [Microsoft Teams to get efficiency mode on PCs with limited resources](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/)
-📅 April 22, 2026
+### [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
+📅 April 23, 2026
 
-Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]
-
-
-### [Microsoft traces Universal Print issues to Graph API code change](https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/)
-📅 April 22, 2026
-
-Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change. [...]
+Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]
 
 
-### [New GoGra malware for Linux uses Microsoft Graph API for comms](https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/)
-📅 April 22, 2026
+### [Cosmetics giant Rituals discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/)
+📅 April 23, 2026
 
-A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]
+Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its "My Rituals" membership database. [...]
 
 
-### [Microsoft releases emergency patches for critical ASP.NET flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/)
-📅 April 22, 2026
+### [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
+📅 April 23, 2026
 
-Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]
+Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]
+
+
+### [Microsoft: Some Teams users can’t join meetings after Edge update](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/)
+📅 April 23, 2026
+
+Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]
+
+
+### [UK warns of Chinese hackers using proxy networks to evade detection](https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/)
+📅 April 23, 2026
+
+The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]
+
+
+### [New GopherWhisper APT group abuses Outlook, Slack, Discord for comms](https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/)
+📅 April 23, 2026
+
+A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [...]
+
+
+### [CISA orders feds to patch BlueHammer flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/)
+📅 April 23, 2026
+
+CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]
 
 
 ---
 
 ## 🗞️ The Hacker News
+
+### [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
+📅 April 24, 2026
+
+A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Requ...
+
+
+### [UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
+📅 April 23, 2026
+
+A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. "As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT helpdesk em...
+
+
+### [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
+📅 April 23, 2026
+
+Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket. "The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in t...
+
+
+### [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
+📅 April 23, 2026
+
+You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes. The supply chain is messy. Packages you did not check are stealing data, adding backdoors, and spreading. Attacking the systems...
+
+
+### [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
+📅 April 23, 2026
+
+Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly. Well, that world is already here. Thanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets at...
+
+
+### [Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
+📅 April 23, 2026
+
+Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and ...
+
 
 ### [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
 📅 April 23, 2026
@@ -158,7 +194,7 @@ Mongolian governmental institutions have emerged as the target of a previously u
 Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems. The company said it made the discovery after expanding its investigation to include an extra set o...
 
 
-### [Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
+### [Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
 📅 April 23, 2026
 
 Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device. The vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data...
@@ -170,45 +206,17 @@ Apple has rolled out a software fix for iOS and iPadOS to address a Notification
 Cybersecurity researchers have warned of malicious images pushed to the official "checkmarx/kics" Docker Hub repository. In an alert published today, software supply chain security company Socket revealed that unknown threat actors managed to have overwritten existing tags, including v2.1.20 and alp...
 
 
-### [Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
-📅 April 22, 2026
-
-Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens. The supply chain worm has been detected by both Socket and StepSecurity, with the companies tracking the activi...
-
-
-### [Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API](https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html)
-📅 April 22, 2026
-
-The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia. "The malware uses the legitimate Microsoft Graph API and Outlook mailboxes as a covert command-and-control (C2) channel, allowing ...
-
-
-### [Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack](https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html)
-📅 April 22, 2026
-
-Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026. Dubbed Lotus Wiper, the novel file wiper has been used in a destructive campaign targeting the energy and utilities sector i...
-
-
-### [Toxic Combinations: When Cross-App Permissions Stack into Risk](https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html)
-📅 April 22, 2026
-
-On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active agents. The more worrying part sat inside the private messages. Some of those conver...
-
-
-### [Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug](https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html)
-📅 April 22, 2026
-
-Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has bee...
-
-
-### [Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles](https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html)
-📅 April 22, 2026
-
-Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. "The backdoor communicates with a dynamic DNS-based command-and-control server over HTTPS and supports remote shell access, file operations, a...
-
-
 ---
 
 ## 🚨 CISA Alerts
+
+### [CISA Warns of FIRESTARTER Malware Targeting Cisco ASA including Firepower and Secure Firewall Products](https://www.cisa.gov/news-events/news/cisa-warns-firestarter-malware-targeting-cisco-asa-including-firepower-and-secure-firewall-products)
+📅 April 23, 2026
+
+
+### [CISA, National Cyber Security Centre (NCSC) UK, and Global Partners Issue Advisory on Chinese Government-Linked Covert Cyber Networks](https://www.cisa.gov/news-events/news/cisa-national-cyber-security-centre-ncsc-uk-and-global-partners-issue-advisory-chinese-government)
+📅 April 23, 2026
+
 
 ### [CISA Issues Updated RESURGE Malware Analysis Highlighting a Stealthy but Active Threat](https://www.cisa.gov/news-events/news/cisa-issues-updated-resurge-malware-analysis-highlighting-stealthy-active-threat)
 📅 February 26, 2026
@@ -240,14 +248,6 @@ Cybersecurity researchers have discovered a new variant of a known malware calle
 
 ### [CISA Releases Product Categories List to Propel Post-Quantum Cryptography Adoption Pursuant to President Trump’s Executive Order 14306](https://www.cisa.gov/news-events/news/cisa-releases-product-categories-list-propel-post-quantum-cryptography-adoption-pursuant-president)
 📅 January 23, 2026
-
-
-### [CISA, UK NCSC, FBI Unveil Principles to Combat Cyber Risks in OT](https://www.cisa.gov/news-events/news/cisa-uk-ncsc-fbi-unveil-principles-combat-cyber-risks-ot)
-📅 January 14, 2026
-
-
-### [CISA Retires Ten Emergency Directives, Marking an Era in Federal Cybersecurity](https://www.cisa.gov/news-events/news/cisa-retires-ten-emergency-directives-marking-era-federal-cybersecurity)
-📅 January 08, 2026
 
 
 ---
