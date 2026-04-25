@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 24, 2026 at 09:45 UTC**  
+> Last updated: **April 25, 2026 at 08:55 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,69 +82,105 @@ In early January 2026, KrebsOnSecurity revealed how a security researcher disclo
 
 ## 💻 Bleeping Computer
 
+### [ADT confirms data breach after ShinyHunters leak threat](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/)
+📅 April 24, 2026
+
+Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]
+
+
+### [Firestarter malware survives Cisco firewall updates, security patches](https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/)
+📅 April 24, 2026
+
+Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat Defense (FTD) software. [...]
+
+
+### [Windows Update gets new controls to reduce forced restarts](https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/)
+📅 April 24, 2026
+
+Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]
+
+
+### [New BlackFile extortion group linked to surge of vishing attacks](https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/)
+📅 April 24, 2026
+
+A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]
+
+
+### [Microsoft to roll out Entra passkeys on Windows in late April](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/)
+📅 April 24, 2026
+
+Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April. [...]
+
+
+### [New ‘Pack2TheRoot’ flaw gives hackers root Linux access](https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/)
+📅 April 24, 2026
+
+A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain root permissions. [...]
+
+
+### [DORA and operational resilience: Credential management as a financial risk control](https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/)
+📅 April 24, 2026
+
+Article 9 of DORA makes authentication and access control a legal obligation for EU financial entities. Here is what the regulation requires, and what a breach looks like when those controls are missing. [...]
+
+
+### [Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks](https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/)
+📅 April 24, 2026
+
+Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]
+
+
+### [Microsoft now lets admins uninstall Copilot on enterprise devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/)
+📅 April 24, 2026
+
+Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday. [...]
+
+
 ### [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
 📅 April 23, 2026
 
 Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]
 
 
-### [Bitwarden CLI npm package compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/)
-📅 April 23, 2026
-
-The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]
-
-
-### [Trigona ransomware attacks use custom exfiltration tool to steal data](https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/)
-📅 April 23, 2026
-
-Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]
-
-
-### [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
-📅 April 23, 2026
-
-Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]
-
-
-### [Cosmetics giant Rituals discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/)
-📅 April 23, 2026
-
-Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its "My Rituals" membership database. [...]
-
-
-### [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
-📅 April 23, 2026
-
-Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]
-
-
-### [Microsoft: Some Teams users can’t join meetings after Edge update](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/)
-📅 April 23, 2026
-
-Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]
-
-
-### [UK warns of Chinese hackers using proxy networks to evade detection](https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/)
-📅 April 23, 2026
-
-The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]
-
-
-### [New GopherWhisper APT group abuses Outlook, Slack, Discord for comms](https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/)
-📅 April 23, 2026
-
-A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [...]
-
-
-### [CISA orders feds to patch BlueHammer flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/)
-📅 April 23, 2026
-
-CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
+📅 April 25, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnera...
+
+
+### [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
+📅 April 24, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with a new malware called FIRESTARTER. FIRESTARTER, per CISA and the U.K...
+
+
+### [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
+📅 April 24, 2026
+
+The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a U.S. researcher as part of a spear-phishing campaign to obtain sensitive information from the space agency, as well as from government entities, unive...
+
+
+### [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
+📅 April 24, 2026
+
+The AI Agent Authority Gap - From Ungoverned to Delegation As discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly. The issue is not simply that agents are new actors. It is that agents are delegated actors. T...
+
+
+### [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
+📅 April 24, 2026
+
+Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt to steal recovery phrases and private keys since at least fall 2025. "Once launched, these apps redirect users to browser pages designed to look simi...
+
+
+### [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
+📅 April 24, 2026
+
+Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS Code) tunnels for remote access. Zscaler ThreatLabz, which ...
+
 
 ### [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
 📅 April 24, 2026
@@ -152,58 +188,22 @@ CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege e
 A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Requ...
 
 
-### [UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
+### [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 📅 April 23, 2026
 
-A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. "As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT helpdesk em...
+A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. "As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk e...
 
 
 ### [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 📅 April 23, 2026
 
-Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket. "The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in t...
+Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket. "The affected package version appears to be @bitwarden/cli@2026.4.0, a...
 
 
 ### [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
 📅 April 23, 2026
 
 You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes. The supply chain is messy. Packages you did not check are stealing data, adding backdoors, and spreading. Attacking the systems...
-
-
-### [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
-📅 April 23, 2026
-
-Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly. Well, that world is already here. Thanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets at...
-
-
-### [Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
-📅 April 23, 2026
-
-Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and ...
-
-
-### [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
-📅 April 23, 2026
-
-Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper. "The group wields a wide array of tools mostly written in Go, using injectors and loaders to deploy and execute various backdoors...
-
-
-### [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
-📅 April 23, 2026
-
-Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems. The company said it made the discovery after expanding its investigation to include an extra set o...
-
-
-### [Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
-📅 April 23, 2026
-
-Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device. The vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data...
-
-
-### [Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
-📅 April 22, 2026
-
-Cybersecurity researchers have warned of malicious images pushed to the official "checkmarx/kics" Docker Hub repository. In an alert published today, software supply chain security company Socket revealed that unknown threat actors managed to have overwritten existing tags, including v2.1.20 and alp...
 
 
 ---
