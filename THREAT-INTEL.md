@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **April 28, 2026 at 10:15 UTC**  
+> Last updated: **April 29, 2026 at 10:06 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,54 @@ In early January 2026, KrebsOnSecurity revealed how a security researcher disclo
 
 ## 💻 Bleeping Computer
 
+### [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
+📅 April 29, 2026
+
+Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]
+
+
+### [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
+📅 April 28, 2026
+
+Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]
+
+
+### [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
+📅 April 28, 2026
+
+Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability tracked as CVE-2026-42208. [...]
+
+
+### [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
+📅 April 28, 2026
+
+Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]
+
+
+### [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
+📅 April 28, 2026
+
+A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a prolific member of the notorious Scattered Spider hacking collective. [...]
+
+
+### [Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data](https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/)
+📅 April 28, 2026
+
+Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]
+
+
+### [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
+📅 April 28, 2026
+
+Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]
+
+
+### [Inside an OPSEC Playbook: How Threat Actors Evade Detection](https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/)
+📅 April 28, 2026
+
+Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies. [...]
+
+
 ### [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
 📅 April 28, 2026
 
@@ -94,57 +142,57 @@ Microsoft has confirmed a new issue causing newly introduced Windows security wa
 After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail accounts via the default Mail app. [...]
 
 
-### [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
-📅 April 27, 2026
-
-Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]
-
-
-### [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
-📅 April 27, 2026
-
-A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 "sleeper" extensions that turn malicious after an update. [...]
-
-
-### [Canada arrests three for operating “SMS blaster” device in Toronto](https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/)
-📅 April 27, 2026
-
-Canadian authorities have arrested three men for operating an "SMS blaster" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]
-
-
-### [Alleged Silk Typhoon hacker extradited to US for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/)
-📅 April 27, 2026
-
-A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]
-
-
-### [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
-📅 April 27, 2026
-
-The U.S. Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2.1 billion in 2025. [...]
-
-
-### [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
-📅 April 27, 2026
-
-An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]
-
-
-### [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
-📅 April 27, 2026
-
-The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned. [...]
-
-
-### [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
-📅 April 27, 2026
-
-On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalate into incidents. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
+📅 April 29, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-20...
+
+
+### [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
+📅 April 29, 2026
+
+In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge. The vulnerability, tracked as CVE-...
+
+
+### [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
+📅 April 28, 2026
+
+Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single "git push" command. The flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a ...
+
+
+### [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
+📅 April 28, 2026
+
+A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot). "The malware disguises itself as a Minecraft hack called 'Slinky,'" Brazil-based cybersecurity company ZenoX...
+
+
+### [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
+📅 April 28, 2026
+
+Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery impossible even for the threat actors. The fact that VECT's lo...
+
+
+### [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
+📅 April 28, 2026
+
+Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done. That assumption is wrong. It is also a major reason Zero Trust programs stall. New research my team just published puts numbers...
+
+
+### [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
+📅 April 28, 2026
+
+Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution. The vulnerability in question is CVE-2026-25874 (CVSS score: 9.3), w...
+
+
+### [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
+📅 April 28, 2026
+
+When patching isn’t fast enough, NDR helps contain the next era of threats. If you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability disclosure, is closing fast. Anthropic’s new model, Claude Myt...
+
 
 ### [Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
 📅 April 28, 2026
@@ -156,54 +204,6 @@ A Chinese national accused of being a member of the Silk Typhoon hacking group h
 📅 April 28, 2026
 
 An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent...
-
-
-### [Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
-📅 April 28, 2026
-
-Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to ...
-
-
-### [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
-📅 April 27, 2026
-
-Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web. "Based on current evidence, we believe this data originated from Checkmarx's GitHub repository, and that ac...
-
-
-### [⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
-📅 April 27, 2026
-
-Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how easy some attacks still are. Most of it feels like stuff we should have fixed years ago. Bad extensio...
-
-
-### [Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
-📅 April 27, 2026
-
-Anthropic’s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurity-focused AI system capable of identifying vulnerabilities at scale and raising serious questions about how quickly organizations can validate, priori...
-
-
-### [PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
-📅 April 27, 2026
-
-A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025. That's according to a report published by Positive Technologies, which found the threat actors to be leveraging a...
-
-
-### [Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware](https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html)
-📅 April 27, 2026
-
-Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm. The cluster of 73 extensions has been identified as cloned versions of their legitimate counte...
-
-
-### [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html)
-📅 April 27, 2026
-
-Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease ...
-
-
-### [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
-📅 April 25, 2026
-
-Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclear program by destroying uranium enrichment centrifuges. According to a new report published by SentinelOne, the previously undocumented cyber sabotage...
 
 
 ---
