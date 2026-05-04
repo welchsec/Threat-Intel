@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **May 03, 2026 at 09:22 UTC**  
+> Last updated: **May 04, 2026 at 10:14 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,24 @@ AI-based assistants or "agents" -- autonomous programs that have access to the u
 
 ## 💻 Bleeping Computer
 
+### [Instructure confirms data breach, ShinyHunters claims attack](https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/)
+📅 May 03, 2026
+
+Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]
+
+
+### [Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha](https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/)
+📅 May 03, 2026
+
+Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]
+
+
+### [Telegram Mini Apps abused for crypto scams, Android malware delivery](https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/)
+📅 May 03, 2026
+
+Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]
+
+
 ### [Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks](https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/)
 📅 May 02, 2026
 
@@ -124,27 +142,15 @@ BleepingComputer initially published a story about a new data breach at Instruct
 Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]
 
 
-### [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
-📅 May 01, 2026
-
-Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]
-
-
-### [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
-📅 May 01, 2026
-
-Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall. [...]
-
-
-### [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
-📅 May 01, 2026
-
-Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance improvements for launching startup apps. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
+📅 May 04, 2026
+
+A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, resulting in millions of dollars in losses. The crackdown was led by the Dubai Police,...
+
 
 ### [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
 📅 May 03, 2026
@@ -198,12 +204,6 @@ A new software supply chain attack campaign has been observed using sleeper pack
 📅 April 30, 2026
 
 In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 an...
-
-
-### [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
-📅 April 30, 2026
-
-The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install. It is definitely a busy time to be online. Security is alw...
 
 
 ---
