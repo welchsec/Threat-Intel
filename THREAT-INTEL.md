@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **May 06, 2026 at 10:20 UTC**  
+> Last updated: **May 07, 2026 at 10:25 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,54 @@ AI-based assistants or "agents" -- autonomous programs that have access to the u
 
 ## 💻 Bleeping Computer
 
+### [Fake Claude AI website delivers new 'Beagle' Windows malware](https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/)
+📅 May 07, 2026
+
+A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]
+
+
+### [Hackers abuse Google ads for GoDaddy ManageWP login phishing](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/)
+📅 May 06, 2026
+
+A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]
+
+
+### [Critical vm2 sandbox bug lets attackers execute code on hosts](https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/)
+📅 May 06, 2026
+
+A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]
+
+
+### [New Cisco DoS flaw requires manual reboot to revive devices](https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/)
+📅 May 06, 2026
+
+Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]
+
+
+### [DAEMON Tools devs confirm breach, release malware-free version](https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/)
+📅 May 06, 2026
+
+Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]
+
+
+### [Why ransomware attacks succeed even when backups exist](https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/)
+📅 May 06, 2026
+
+Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]
+
+
+### [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
+📅 May 06, 2026
+
+The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on Microsoft Teams social engineering to gain access and establish persistence. [...]
+
+
+### [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
+📅 May 06, 2026
+
+Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]
+
+
 ### [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
 📅 May 06, 2026
 
@@ -94,57 +142,45 @@ Palo Alto Networks warned customers today that a critical-severity unpatched vul
 A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]
 
 
-### [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
-📅 May 05, 2026
-
-The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]
-
-
-### [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
-📅 May 05, 2026
-
-Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]
-
-
-### [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
-📅 May 05, 2026
-
-A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]
-
-
-### [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
-📅 May 05, 2026
-
-The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold precise geolocation data collected from hundreds of millions of mobile devices. [...]
-
-
-### [The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/)
-📅 May 05, 2026
-
-Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for your projects. [...]
-
-
-### [Vimeo data breach exposes personal information of 119,000 people](https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/)
-📅 May 05, 2026
-
-The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]
-
-
-### [Google now offers up to $1.5 million for some Android exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
-📅 May 05, 2026
-
-Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) has made easier to find. [...]
-
-
-### [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
-📅 May 05, 2026
-
-A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his "cold case" negotiator role in the Russian Karakurt ransomware group. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux](https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html)
+📅 May 07, 2026
+
+Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called&nbsp;ZiChatBot on Windows and Linux systems. "While these wheel packages do implement the features described on th...
+
+
+### [vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
+📅 May 07, 2026
+
+A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by...
+
+
+### [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
+📅 May 06, 2026
+
+Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the mal...
+
+
+### [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
+📅 May 06, 2026
+
+The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a "false flag" operation. The attack, observed by Rapid7 in early 2026, has been found to leverage social engineer...
+
+
+### [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
+📅 May 06, 2026
+
+For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats. But behind every headline, there’s a quieter, better story. It’s the story of leaders making tough calls under pressure, teams building smarter defenses, and secur...
+
+
+### [Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
+📅 May 06, 2026
+
+Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that “enterprise adoption of AI agents is accelerating, outpacing maturity of govern...
+
 
 ### [Google's Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
 📅 May 06, 2026
@@ -168,42 +204,6 @@ Palo Alto Networks has released an advisory warning that a critical buffer overf
 📅 May 05, 2026
 
 The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE). The vulnerability, tracked as CVE-2026-23918 (CVSS score: 8.8), has been des...
-
-
-### [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
-📅 May 05, 2026
-
-A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. "These installers are distributed from the legitimate website of DAEMON Tools and are signed with digital certificates belonging t...
-
-
-### [China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions](https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html)
-📅 May 05, 2026
-
-A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in 2025. The activity is being tracked by Cisco Talos under the moniker UAT-8302, w...
-
-
-### [The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed](https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html)
-📅 May 05, 2026
-
-Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic cleanup, and in most organizations, no one watching it. Your perimeter controls don't see it. Your ...
-
-
-### [MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks](https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html)
-📅 May 05, 2026
-
-Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-2026-29014 (CVSS score: 9.8), a code injection flaw that could result in arbitrary ...
-
-
-### [We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is](https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html)
-📅 May 05, 2026
-
-While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure...
-
-
-### [ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
-📅 May 05, 2026
-
-The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have pr...
 
 
 ---
