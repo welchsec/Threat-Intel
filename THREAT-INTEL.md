@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **May 07, 2026 at 10:25 UTC**  
+> Last updated: **May 08, 2026 at 09:23 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -17,6 +17,12 @@
 ---
 
 ## 🔐 Krebs on Security
+
+### [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
+📅 May 08, 2026
+
+An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak...
+
 
 ### [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 📅 April 30, 2026
@@ -72,79 +78,115 @@ A hacktivist group with links to Iran's intelligence agencies is claiming respon
 Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing "zero-day" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organi...
 
 
-### [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
-📅 March 08, 2026
-
-AI-based assistants or "agents" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these p...
-
-
 ---
 
 ## 💻 Bleeping Computer
 
-### [Fake Claude AI website delivers new 'Beagle' Windows malware](https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/)
+### [Former govt contractor convicted for wiping dozens of federal databases](https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/)
+📅 May 08, 2026
+
+A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]
+
+
+### [New Linux 'Dirty Frag' zero-day gives root on all major distros](https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/)
+📅 May 08, 2026
+
+A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]
+
+
+### [Canvas login portals hacked in mass ShinyHunters extortion campaign](https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/)
 📅 May 07, 2026
 
-A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]
+The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]
 
 
-### [Hackers abuse Google ads for GoDaddy ManageWP login phishing](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/)
-📅 May 06, 2026
+### [New TCLBanker malware self-spreads over WhatsApp and Outlook](https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/)
+📅 May 07, 2026
 
-A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]
-
-
-### [Critical vm2 sandbox bug lets attackers execute code on hosts](https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/)
-📅 May 06, 2026
-
-A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]
+A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]
 
 
-### [New Cisco DoS flaw requires manual reboot to revive devices](https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/)
-📅 May 06, 2026
+### [New PCPJack worm steals credentials, cleans TeamPCP infections](https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/)
+📅 May 07, 2026
 
-Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]
-
-
-### [DAEMON Tools devs confirm breach, release malware-free version](https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/)
-📅 May 06, 2026
-
-Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]
+A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]
 
 
-### [Why ransomware attacks succeed even when backups exist](https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/)
-📅 May 06, 2026
+### [Australia warns of ClickFix attacks pushing Vidar Stealer malware](https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/)
+📅 May 07, 2026
 
-Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]
-
-
-### [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
-📅 May 06, 2026
-
-The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on Microsoft Teams social engineering to gain access and establish persistence. [...]
+The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]
 
 
-### [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
-📅 May 06, 2026
+### [Ivanti warns of new EPMM flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/)
+📅 May 07, 2026
 
-Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]
-
-
-### [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
-📅 May 06, 2026
-
-Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]
+Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]
 
 
-### [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
-📅 May 05, 2026
+### [The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls](https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/)
+📅 May 07, 2026
 
-A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]
+Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]
+
+
+### [Americans sentenced for running 'laptop farms' for North Korea](https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/)
+📅 May 07, 2026
+
+Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]
+
+
+### [Crypto gang member gets 6.5 years for role in $230 million heist](https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/)
+📅 May 07, 2026
+
+A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]
 
 
 ---
 
 ## 🗞️ The Hacker News
+
+### [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
+📅 May 08, 2026
+
+Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come ...
+
+
+### [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
+📅 May 07, 2026
+
+Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0...
+
+
+### [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
+📅 May 07, 2026
+
+Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. "The toolset harvests credentials from cloud, container, developer, productivity, and financi...
+
+
+### [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
+📅 May 07, 2026
+
+The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one "Patient Zero" infection. In 2026, hackers are using AI to make these "first clicks" nearly impossible to spot. If...
+
+
+### [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
+📅 May 07, 2026
+
+Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vulnerability in the User-ID Authentication ...
+
+
+### [ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
+📅 May 07, 2026
+
+Bad week. Turns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. Some of these attack chains don’t even feel sophisticated anymore. More like some...
+
+
+### [Day Zero Readiness: The Operational Gaps That Break Incident Response](https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html)
+📅 May 07, 2026
+
+Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team can do meaningful work the moment they do.&nbsp; That disti...
+
 
 ### [PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux](https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html)
 📅 May 07, 2026
@@ -162,48 +204,6 @@ A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js
 📅 May 06, 2026
 
 Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the mal...
-
-
-### [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
-📅 May 06, 2026
-
-The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a "false flag" operation. The attack, observed by Rapid7 in early 2026, has been found to leverage social engineer...
-
-
-### [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
-📅 May 06, 2026
-
-For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats. But behind every headline, there’s a quieter, better story. It’s the story of leaders making tough calls under pressure, teams building smarter defenses, and secur...
-
-
-### [Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
-📅 May 06, 2026
-
-Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that “enterprise adoption of AI agents is accelerating, outpacing maturity of govern...
-
-
-### [Google's Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
-📅 May 06, 2026
-
-Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. "This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute," Google's product and security teams said. The initiative ...
-
-
-### [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
-📅 May 06, 2026
-
-Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft. "According to the functionalities of the CloudZ RAT and Pheno plugin, this was wi...
-
-
-### [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
-📅 May 06, 2026
-
-Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 ...
-
-
-### [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
-📅 May 05, 2026
-
-The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE). The vulnerability, tracked as CVE-2026-23918 (CVSS score: 8.8), has been des...
 
 
 ---
