@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **May 09, 2026 at 09:20 UTC**  
+> Last updated: **May 10, 2026 at 09:39 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,18 @@ Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities
 
 ## 💻 Bleeping Computer
 
+### [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
+📅 May 09, 2026
+
+The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]
+
+
+### [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
+📅 May 09, 2026
+
+A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's "Privacy Filter" project to deliver information-stealing malware to Windows users. [...]
+
+
 ### [NVIDIA confirms GeForce NOW data breach affecting Armenian users](https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/)
 📅 May 08, 2026
 
@@ -128,18 +140,6 @@ A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain r
 📅 May 07, 2026
 
 The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]
-
-
-### [New TCLBanker malware self-spreads over WhatsApp and Outlook](https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/)
-📅 May 07, 2026
-
-A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]
-
-
-### [New PCPJack worm steals credentials, cleans TeamPCP infections](https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/)
-📅 May 07, 2026
-
-A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]
 
 
 ---
