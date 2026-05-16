@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **May 15, 2026 at 10:24 UTC**  
+> Last updated: **May 16, 2026 at 09:41 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,48 @@ A hacktivist group with links to Iran's intelligence agencies is claiming respon
 
 ## 💻 Bleeping Computer
 
+### [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
+📅 May 15, 2026
+
+A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]
+
+
+### [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
+📅 May 15, 2026
+
+​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]
+
+
+### [Popular node-ipc npm package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
+📅 May 15, 2026
+
+Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]
+
+
+### [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
+📅 May 15, 2026
+
+Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]
+
+
+### [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
+📅 May 15, 2026
+
+Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was "by design." [...]
+
+
+### [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
+📅 May 15, 2026
+
+Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]
+
+
+### [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
+📅 May 15, 2026
+
+Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]
+
+
 ### [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
 📅 May 15, 2026
 
@@ -100,51 +142,33 @@ The TeamPCP hacker group is threatening to leak source code from the Mistral AI 
 Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]
 
 
-### [Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/)
-📅 May 14, 2026
-
-Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices. [...]
-
-
-### [OpenAI confirms security breach in TanStack supply chain attack](https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/)
-📅 May 14, 2026
-
-OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. [...]
-
-
-### [Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/)
-📅 May 14, 2026
-
-On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]
-
-
-### [18-year-old NGINX vulnerability allows DoS, potential RCE](https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/)
-📅 May 14, 2026
-
-An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]
-
-
-### [Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight](https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/)
-📅 May 14, 2026
-
-Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportation security. [...]
-
-
-### [KongTuke hackers now use Microsoft Teams for corporate breaches](https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/)
-📅 May 14, 2026
-
-Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]
-
-
-### [Dell confirms its SupportAssist software causes Windows BSOD crashes](https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/)
-📅 May 14, 2026
-
-Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
+📅 May 15, 2026
+
+The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts. Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is asses...
+
+
+### [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
+📅 May 15, 2026
+
+Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, a...
+
+
+### [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
+📅 May 15, 2026
+
+In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT te...
+
+
+### [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
+📅 May 15, 2026
+
+OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. "Upon identifica...
+
 
 ### [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
 📅 May 15, 2026
@@ -180,30 +204,6 @@ Everything is still on fire. This week feels dumb in the worst way — bad links
 📅 May 14, 2026
 
 The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly ...
-
-
-### [PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
-📅 May 14, 2026
-
-Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentica...
-
-
-### [How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
-📅 May 14, 2026
-
-AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable res...
-
-
-### [Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
-📅 May 14, 2026
-
-An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey...
-
-
-### [New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html)
-📅 May 14, 2026
-
-Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks. Codenamed Fragnesia, the security vulnerabil...
 
 
 ---
