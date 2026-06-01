@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **May 31, 2026 at 10:17 UTC**  
+> Last updated: **June 01, 2026 at 13:36 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,36 @@ Hackers linked to Russia's military intelligence units are using known flaws in 
 
 ## 💻 Bleeping Computer
 
+### [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
+📅 June 01, 2026
+
+The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks. [...]
+
+
+### [Webinar tomorrow: From alert to resolution in network incident response](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/)
+📅 June 01, 2026
+
+Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident response. [...]
+
+
+### [Microsoft fixes outage affecting MFA setup, MySignIn service](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/)
+📅 June 01, 2026
+
+Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]
+
+
+### [Microsoft fixes KB5089549 Windows security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/)
+📅 June 01, 2026
+
+Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]
+
+
+### [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
+📅 May 31, 2026
+
+Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]
+
+
 ### [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
 📅 May 30, 2026
 
@@ -112,39 +142,33 @@ California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrom
 DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into polished attack platforms. [...]
 
 
-### [Dutch govt disrupts malware botnet with 17 million infected devices](https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/)
-📅 May 29, 2026
-
-Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]
-
-
-### [Google Chrome adds session cookie theft protection for all users](https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/)
-📅 May 29, 2026
-
-Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]
-
-
-### [Man sent to prison for selling data of 7 millions elderly Americans](https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/)
-📅 May 29, 2026
-
-A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]
-
-
-### [US charges Google security engineer with Polymarket insider trading](https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/)
-📅 May 29, 2026
-
-A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]
-
-
-### [Charter Communications data breach affects 4.9 million accounts](https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/)
-📅 May 29, 2026
-
-The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
+📅 June 01, 2026
+
+Three years ago, the practical question for an MSP building a cybersecurity practice was which "vCISO platform" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor. A ...
+
+
+### [OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack](https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html)
+📅 June 01, 2026
+
+Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 2...
+
+
+### [Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts](https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html)
+📅 June 01, 2026
+
+Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites. WP Maps Pro allows site owners to embed customizable Google Maps a...
+
+
+### [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
+📅 May 31, 2026
+
+Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at leas...
+
 
 ### [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
 📅 May 30, 2026
@@ -180,30 +204,6 @@ Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It 
 📅 May 29, 2026
 
 Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates. According to Socket, versions 2.0.0 through 2.0.4 of "Sicoob.Sdk" contai...
-
-
-### [Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels](https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html)
-📅 May 29, 2026
-
-The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026. "Kimsuky employed a range of tailored social engineering tactics, such as spoo...
-
-
-### [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html)
-📅 May 28, 2026
-
-A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier...
-
-
-### [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html)
-📅 May 28, 2026
-
-Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. "The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints," Arcti...
-
-
-### [Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal](https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html)
-📅 May 28, 2026
-
-Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed. The development comes after a re...
 
 
 ---
