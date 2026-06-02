@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **June 01, 2026 at 13:36 UTC**  
+> Last updated: **June 02, 2026 at 12:05 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -17,6 +17,12 @@
 ---
 
 ## 🔐 Krebs on Security
+
+### [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
+📅 June 01, 2026
+
+The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's "AI support assistant" bot into resetting ac...
+
 
 ### [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 📅 May 25, 2026
@@ -72,15 +78,57 @@ A 24-year-old British national and senior member of the cybercrime group "Scatte
 Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed "BlueHammer." Separately, Google Chrome fixed its fourth...
 
 
-### [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
-📅 April 07, 2026
-
-Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens fr...
-
-
 ---
 
 ## 💻 Bleeping Computer
+
+### [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
+📅 June 02, 2026
+
+Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]
+
+
+### [Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks](https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/)
+📅 June 01, 2026
+
+A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]
+
+
+### [Red Hat npm packages compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/)
+📅 June 01, 2026
+
+More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed "Miasma." [...]
+
+
+### [Spain arrests doxer leaking sensitive data of govt employees](https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/)
+📅 June 01, 2026
+
+The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]
+
+
+### [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
+📅 June 01, 2026
+
+Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]
+
+
+### [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
+📅 June 01, 2026
+
+Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]
+
+
+### [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
+📅 June 01, 2026
+
+Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]
+
+
+### [Race Against Time: Why Faster Vulnerability Alerts Matter](https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/)
+📅 June 01, 2026
+
+Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]
+
 
 ### [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
 📅 June 01, 2026
@@ -94,57 +142,45 @@ The Centre for Cybersecurity Belgium (CCB), the country's national authority for
 Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident response. [...]
 
 
-### [Microsoft fixes outage affecting MFA setup, MySignIn service](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/)
-📅 June 01, 2026
-
-Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]
-
-
-### [Microsoft fixes KB5089549 Windows security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/)
-📅 June 01, 2026
-
-Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]
-
-
-### [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
-📅 May 31, 2026
-
-Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]
-
-
-### [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
-📅 May 30, 2026
-
-Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]
-
-
-### [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
-📅 May 30, 2026
-
-A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain root privileges. [...]
-
-
-### [ChatGPT share links abused to host fake outage pages to deliver malware](https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/)
-📅 May 29, 2026
-
-Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]
-
-
-### [California AG sues 23andMe over 2023 breach exposing health data](https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/)
-📅 May 29, 2026
-
-California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]
-
-
-### [From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market](https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/)
-📅 May 29, 2026
-
-DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into polished attack platforms. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)
+📅 June 02, 2026
+
+Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move faster, evade traditional prevention controls, and require ...
+
+
+### [Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)
+📅 June 02, 2026
+
+Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. "The campaign opens with a spear phishing delivery - a ZIP arch...
+
+
+### [Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)
+📅 June 02, 2026
+
+Password manager Dashlane has disclosed that "fewer than" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, the company said an "external" threat actor launched a brute-force attack against c...
+
+
+### [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)
+📅 June 01, 2026
+
+A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. "This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of instal...
+
+
+### [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
+📅 June 01, 2026
+
+Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some "patched-ish" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering ...
+
+
+### [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
+📅 June 01, 2026
+
+A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial serv...
+
 
 ### [The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
 📅 June 01, 2026
@@ -168,42 +204,6 @@ Threat actors are attempting to actively exploit a critical security flaw impact
 📅 May 31, 2026
 
 Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at leas...
-
-
-### [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
-📅 May 30, 2026
-
-Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by...
-
-
-### [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
-📅 May 29, 2026
-
-Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. The technique has been codenamed ChatGPhis...
-
-
-### [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
-📅 May 29, 2026
-
-An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability. "The attacker compromised an internet-reac...
-
-
-### [New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html)
-📅 May 29, 2026
-
-A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, wit...
-
-
-### [What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks](https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html)
-📅 May 29, 2026
-
-Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop. The artifact moved from a promp...
-
-
-### [Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets](https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html)
-📅 May 29, 2026
-
-Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates. According to Socket, versions 2.0.0 through 2.0.4 of "Sicoob.Sdk" contai...
 
 
 ---
