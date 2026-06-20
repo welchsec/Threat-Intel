@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **June 19, 2026 at 12:06 UTC**  
+> Last updated: **June 20, 2026 at 10:33 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,36 @@ An ongoing data extortion attack targeting the widely-used education technology 
 
 ## 💻 Bleeping Computer
 
+### [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
+📅 June 19, 2026
+
+Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new "Icarus" extortion group publicly claims the attack. [...]
+
+
+### [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
+📅 June 19, 2026
+
+Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]
+
+
+### [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
+📅 June 19, 2026
+
+The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]
+
+
+### [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
+📅 June 19, 2026
+
+AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]
+
+
+### [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
+📅 June 19, 2026
+
+Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help security teams detect compromised accounts faster and automate response workflows. [......
+
+
 ### [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
 📅 June 19, 2026
 
@@ -112,39 +142,51 @@ The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet 
 The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]
 
 
-### [Nintendo confirms data stolen in WebMD subsidiary cyberattack](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
-📅 June 18, 2026
-
-Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]
-
-
-### [USB worm spreads crypto-stealing malware via Windows shortcut files](https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/)
-📅 June 18, 2026
-
-Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]
-
-
-### [Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/)
-📅 June 18, 2026
-
-Market intelligence platform Klue suffered a OAuth breach that enabled the "Icarus" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]
-
-
-### [5 reasons Microsoft 365 backup isn’t enough for business data protection](https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/)
-📅 June 18, 2026
-
-Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility. Acronis breaks down five gaps organizations should consider when evaluating Microsoft 365 data protection. [...]
-
-
-### [Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp](https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/)
-📅 June 18, 2026
-
-International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
+📅 June 20, 2026
+
+Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers t...
+
+
+### [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
+📅 June 19, 2026
+
+Security researchers at&nbsp;Paradigm Shift&nbsp;have published a working exploit, dubbed&nbsp;usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No software update can reach it. Affected devices w...
+
+
+### [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
+📅 June 19, 2026
+
+The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This mature portfolio of EDR-terminating tools is cente...
+
+
+### [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
+📅 June 19, 2026
+
+Microsoft researchers have detailed an exploit chain, named&nbsp;AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn ...
+
+
+### [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html)
+📅 June 19, 2026
+
+Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. "With these actions we deprive cybercriminals of access to infected computer sy...
+
+
+### [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
+📅 June 19, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices. The sweeping campaign, believed to be the work of Russian-spea...
+
+
+### [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
+📅 June 19, 2026
+
+Introduction The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), r...
+
 
 ### [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
 📅 June 19, 2026
@@ -162,48 +204,6 @@ Salesforce has revealed that it disabled the Klue Battlecards app integration wi
 📅 June 19, 2026
 
 Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth ...
-
-
-### [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
-📅 June 18, 2026
-
-F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities are listed below - CVE-2026-42530 (CVSS v4 score: 9.2) - A use-after-free vulnerability in the ngx_http_v3_module th...
-
-
-### [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
-📅 June 18, 2026
-
-If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned...
-
-
-### [ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html)
-📅 June 18, 2026
-
-The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers ...
-
-
-### [Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2](https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html)
-📅 June 18, 2026
-
-Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication. "The clipper in this campaign relies on Windo...
-
-
-### [INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023](https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html)
-📅 June 18, 2026
-
-Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since August 2023. "The disruption of LockBit and the shutdown of BlackCat created opportuniti...
-
-
-### [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html)
-📅 June 18, 2026
-
-An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here → When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment...
-
-
-### [DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic](https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html)
-📅 June 18, 2026
-
-Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure. According to findings from Broadcom-owned Symantec and Carbon B...
 
 
 ---
