@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **June 20, 2026 at 10:33 UTC**  
+> Last updated: **June 21, 2026 at 11:16 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,18 @@ An ongoing data extortion attack targeting the widely-used education technology 
 
 ## 💻 Bleeping Computer
 
+### [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
+📅 June 20, 2026
+
+A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]
+
+
+### [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
+📅 June 20, 2026
+
+Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]
+
+
 ### [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
 📅 June 19, 2026
 
@@ -128,18 +140,6 @@ CISA has urged U.S. federal agencies to secure their systems by Sunday against a
 📅 June 19, 2026
 
 A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]
-
-
-### [CISA warns Fortinet users to secure devices after FortiBleed leak](https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/)
-📅 June 19, 2026
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed "FortiBleed." [...]
-
-
-### [Gentlemen ransomware uses multiple EDR killers to disable defenses](https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/)
-📅 June 18, 2026
-
-The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]
 
 
 ---
