@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **June 23, 2026 at 11:17 UTC**  
+> Last updated: **June 24, 2026 at 10:50 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -17,6 +17,12 @@
 ---
 
 ## 🔐 Krebs on Security
+
+### [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
+📅 June 23, 2026
+
+Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as...
+
 
 ### [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 📅 June 18, 2026
@@ -72,79 +78,115 @@ Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructur
 Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- in...
 
 
-### [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
-📅 May 08, 2026
-
-An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak...
-
-
 ---
 
 ## 💻 Bleeping Computer
 
-### [WhatsApp phishing attack uses fake business docs to hack PCs](https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/)
-📅 June 22, 2026
+### [Stealthy Mistic backdoor linked to ransomware access broker KongTuke](https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/)
+📅 June 24, 2026
 
-An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]
-
-
-### [JaredFromSubway MEV bot hacked in $15 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
-📅 June 22, 2026
-
-The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]
+A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]
 
 
-### [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
-📅 June 22, 2026
+### [Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/)
+📅 June 23, 2026
 
-A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]
-
-
-### [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
-📅 June 22, 2026
-
-Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]
+A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]
 
 
-### [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)
-📅 June 22, 2026
+### [Tata Electronics confirms cyberattack as hackers leak data](https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/)
+📅 June 23, 2026
 
-Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]
-
-
-### [Microsoft fixes AutoGen Studio flaw that enabled code execution](https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/)
-📅 June 22, 2026
-
-A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]
+Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]
 
 
-### [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
-📅 June 22, 2026
+### [Windows 11 KB5095093 update rolls out new Point-in-Time restore feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/)
+📅 June 23, 2026
 
-Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]
-
-
-### [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
-📅 June 21, 2026
-
-A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]
+​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]
 
 
-### [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
-📅 June 20, 2026
+### [Healthtech firm Xolis suffers data breach impacting 1.4 million people](https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/)
+📅 June 23, 2026
 
-A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]
+Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]
 
 
-### [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
-📅 June 20, 2026
+### [New macOS ClickFix attack silently mounts DMGs to push infostealer](https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/)
+📅 June 23, 2026
 
-Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]
+A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]
+
+
+### [Scattered Spider members plead guilty to hacking Transport for London](https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/)
+📅 June 23, 2026
+
+Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]
+
+
+### [The Exploit Doesn't Exist. You Can Still Prove It Works Against You](https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/)
+📅 June 23, 2026
+
+Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [...]
+
+
+### [LastPass confirms data breach in Klue supply chain attack](https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/)
+📅 June 23, 2026
+
+LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]
+
+
+### [Webinar: Why email security teams are drowning in alerts](https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/)
+📅 June 23, 2026
+
+Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workflows, reducing alert fatigue and improving operational efficiency. [...]
 
 
 ---
 
 ## 🗞️ The Hacker News
+
+### [DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
+📅 June 24, 2026
+
+The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group. "These subsid...
+
+
+### [Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
+📅 June 24, 2026
+
+Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of imp...
+
+
+### [FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation](https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html)
+📅 June 23, 2026
+
+A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally. The campaign, active since February 2026, involves collecting credential lis...
+
+
+### [Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents](https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html)
+📅 June 23, 2026
+
+Security firm&nbsp;AIR&nbsp;built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts. Every skill security scanner the firm tested it against marked it safe. The payload was harmles...
+
+
+### [Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration](https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html)
+📅 June 23, 2026
+
+President Trump signed an&nbsp;executive order on June 22&nbsp;setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves nation...
+
+
+### [GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns](https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html)
+📅 June 23, 2026
+
+GitHub is moving to strengthen software supply chain security by updating "actions/checkout" to block pwn request attacks that exploit the risky use of the "pull_request_target workflow" trigger to run malicious code with the workflow's full privileges. Effective June 18, 2026, the latest version of...
+
+
+### [Agentic AI: The Weapon That No Longer Needs a Warrior](https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html)
+📅 June 23, 2026
+
+Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that death across oceans. At each turn, the distance bet...
+
 
 ### [Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT](https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html)
 📅 June 23, 2026
@@ -162,48 +204,6 @@ Direct messages sent via WhatsApp are being used to distribute malicious Visual 
 📅 June 23, 2026
 
 OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced last month. Calling GPT‑5.5‑Cyber its "strongest model yet for finding and helping patch software vulner...
-
-
-### [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
-📅 June 22, 2026
-
-Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. "Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin...
-
-
-### [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
-📅 June 22, 2026
-
-Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring ...
-
-
-### [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
-📅 June 22, 2026
-
-A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configura...
-
-
-### [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
-📅 June 22, 2026
-
-Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER. According to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting point to distribute the malware. Evidence i...
-
-
-### [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
-📅 June 22, 2026
-
-Google has set September 30, 2026, as the day it begins enforcing&nbsp;Android developer verification&nbsp;in the first four countries, and the major device-maker app stores are in from the start. On that date, certified Android phones in Brazil, Indonesia, Singapore, and Thailand will block normal ...
-
-
-### [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
-📅 June 22, 2026
-
-Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents. AI adoption is moving faster than securit...
-
-
-### [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
-📅 June 22, 2026
-
-It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying part is how little of this feels new. Weak credentials, sketc...
 
 
 ---
