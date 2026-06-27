@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **June 26, 2026 at 10:52 UTC**  
+> Last updated: **June 27, 2026 at 10:09 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,36 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ## 💻 Bleeping Computer
 
+### [FBI: Russian hackers now target Signal backup recovery keys](https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/)
+📅 June 26, 2026
+
+The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]
+
+
+### [CISA sets urgent deadline to fix Cisco flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/)
+📅 June 26, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]
+
+
+### [Polymarket customers lose $3 million in supply-chain attack](https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/)
+📅 June 26, 2026
+
+Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]
+
+
+### [Cybersecurity firms targeted by fraudulent OpenAI organization invites](https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/)
+📅 June 26, 2026
+
+Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]
+
+
+### [Your First GRC Agent: A Red Teamer's Walkthrough](https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/)
+📅 June 26, 2026
+
+AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]
+
+
 ### [Anthropic is testing desktop-like Claude Cowork for mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/)
 📅 June 25, 2026
 
@@ -112,98 +142,68 @@ Microsoft has quietly extended its free Windows 10 Extended Security Updates (ES
 A newly discovered macOS malware dubbed "Gaslight" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]
 
 
-### [PirloTV sports piracy network disrupted as 44 domains seized](https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/)
-📅 June 25, 2026
-
-A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]
-
-
-### [Bluekit phishing kit adopts browser-in-the-middle for login theft](https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/)
-📅 June 25, 2026
-
-The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]
-
-
-### [The Four Elevations of Effective Fraud Prevention](https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/)
-📅 June 25, 2026
-
-Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]
-
-
-### [Webinar: Why account takeovers remain one of the hardest threats to stop](https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/)
-📅 June 25, 2026
-
-Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify compromised accounts faster and automate response workflows. [...]
-
-
-### [Google releases new privacy controls for activity history, personalization](https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/)
-📅 June 24, 2026
-
-Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html)
+📅 June 26, 2026
+
+The FBI and CISA have updated&nbsp;their March warning&nbsp;about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key. Hand it over once, and the attacker can restore the account's backup, read t...
+
+
+### [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html)
+📅 June 26, 2026
+
+A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign ...
+
+
+### [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html)
+📅 June 26, 2026
+
+A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and governm...
+
+
+### [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
+📅 June 26, 2026
+
+A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed "pedit COW," is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working exploit&nbs...
+
+
+### [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
+📅 June 26, 2026
+
+A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as&nbsp;CVE-2026-12957&nbsp;(CVSS 8.5), the b...
+
+
+### [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
+📅 June 26, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabil...
+
+
+### [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
+📅 June 26, 2026
+
+DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demonstration for this variant. Tracked as&nbsp;CVE-2026-43503&nbsp;(CVSS 8.8), it lets a local user corr...
+
+
+### [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
+📅 June 26, 2026
+
+AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for autonomous actors, and the gap between what enterprises are ...
+
+
+### [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
+📅 June 26, 2026
+
+Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem. "The latest activity includes malicious npm releases ...
+
 
 ### [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
 📅 June 26, 2026
 
 An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The company has&nbsp;not attributed&nbsp;the activity to a known ...
-
-
-### [Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
-📅 June 26, 2026
-
-Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus. The finding, published&nbsp;June 25 by the Citizen ...
-
-
-### [Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
-📅 June 26, 2026
-
-The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have an interest in Italian foreign policy. Describing the Window...
-
-
-### [Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability](https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html)
-📅 June 25, 2026
-
-An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge o...
-
-
-### [ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html)
-📅 June 25, 2026
-
-It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was no...
-
-
-### [Surviving the Mythos Era: Richard Bejtlich on the Case for NDR](https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html)
-📅 June 25, 2026
-
-Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context? Answering these questions requires teams to go bey...
-
-
-### [New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html)
-📅 June 25, 2026
-
-A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact. The malware has been codenamed Ga...
-
-
-### [New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
-📅 June 25, 2026
-
-A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026. According to Symantec and Carbon Black's Threat Hunter Team, the backdoor,...
-
-
-### [Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html)
-📅 June 25, 2026
-
-An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant. The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8),...
-
-
-### [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
-📅 June 24, 2026
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026. The vulnerability in questio...
 
 
 ---
