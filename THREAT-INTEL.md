@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **July 11, 2026 at 09:38 UTC**  
+> Last updated: **July 12, 2026 at 09:51 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,12 @@ Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion
 
 ## 💻 Bleeping Computer
 
+### [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
+📅 July 11, 2026
+
+The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]
+
+
 ### ['Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets](https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/)
 📅 July 11, 2026
 
@@ -136,15 +142,21 @@ AI agents are accelerating the growth of non-human identities, making it harder 
 The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]
 
 
-### [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
-📅 July 10, 2026
-
-A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
+📅 July 11, 2026
+
+The jscrambler npm package was compromised, and simply installing its&nbsp;8.14.0&nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&nbsp;preinstall&nbsp;hook that drops and executes a native binary, one build each for Windows, macOS, and Li...
+
+
+### [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
+📅 July 11, 2026
+
+Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. "At Balochistan Police, the compromised assets included ...
+
 
 ### [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
 📅 July 11, 2026
@@ -192,18 +204,6 @@ The China-linked cybercrime group known as Silver Fox has been attributed to a n
 📅 July 10, 2026
 
 A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Féry&nbsp;disclosed the flaw on July 8&nbsp;and nicknamed it XRING. He says it needs ...
-
-
-### [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html)
-📅 July 10, 2026
-
-Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organizations consolidate their asset and exposure data into a single view, and every d...
-
-
-### [Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites](https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html)
-📅 July 10, 2026
-
-A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million websites. Far fewer were actually broken into, but the exposed files showed rese...
 
 
 ---
