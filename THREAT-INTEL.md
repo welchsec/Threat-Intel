@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **July 12, 2026 at 09:51 UTC**  
+> Last updated: **July 13, 2026 at 11:12 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,30 @@ Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion
 
 ## 💻 Bleeping Computer
 
+### [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
+📅 July 13, 2026
+
+Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]
+
+
+### [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
+📅 July 13, 2026
+
+OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]
+
+
+### [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
+📅 July 12, 2026
+
+Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]
+
+
+### [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
+📅 July 12, 2026
+
+A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]
+
+
 ### [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
 📅 July 11, 2026
 
@@ -118,33 +142,21 @@ The Dutch National Police (Politie) says it has found "strong indications" that 
 Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a "credible external security threat" targeting the on-premises secure file-sharing software. [...]
 
 
-### [Hackers exploit critical auth bypass in Gitea Docker image](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/)
-📅 July 10, 2026
-
-Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]
-
-
-### [Money launderer accused of stealing seized crypto while in prison](https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/)
-📅 July 10, 2026
-
-A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]
-
-
-### [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/)
-📅 July 10, 2026
-
-AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity governance are essential as AI expands the enterprise attack surface. [...]
-
-
-### [Zimbra urges customers to patch critical web client XSS flaw](https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/)
-📅 July 10, 2026
-
-The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
+📅 July 13, 2026
+
+An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server 8080, was still sitting in the readable&nbsp;.bash_history. From that one lapse, French security fi...
+
+
+### [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
+📅 July 13, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation in the wild. The vulnerabilities, both ...
+
 
 ### [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
 📅 July 11, 2026
@@ -192,18 +204,6 @@ Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precise
 📅 July 10, 2026
 
 Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnera...
-
-
-### [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
-📅 July 10, 2026
-
-The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware vi...
-
-
-### [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
-📅 July 10, 2026
-
-A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Féry&nbsp;disclosed the flaw on July 8&nbsp;and nicknamed it XRING. He says it needs ...
 
 
 ---
