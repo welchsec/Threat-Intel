@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **July 29, 2026 at 10:39 UTC**  
+> Last updated: **July 30, 2026 at 10:24 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,128 +82,128 @@ The Instagram accounts for the Obama White House and the Chief Master Sergeant o
 
 ## 💻 Bleeping Computer
 
+### [Russian hackers exploit Exchange OWA zero-day for long-term mailbox access](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/)
+📅 July 29, 2026
+
+The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]
+
+
+### [Anthropic confirms Claude is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/)
+📅 July 29, 2026
+
+Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a "529 Overloaded" message, including in Claude and tools that rely on its API. [...]
+
+
+### [Cisco warns of FMC static credential flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/)
+📅 July 29, 2026
+
+Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]
+
+
+### [Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare](https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/)
+📅 July 29, 2026
+
+Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]
+
+
+### [OpenAI agent used exposed credentials at 4 services in Hugging Face breach](https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/)
+📅 July 29, 2026
+
+In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]
+
+
+### [Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack](https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/)
+📅 July 29, 2026
+
+The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in "a coordinated cyberattack." [...]
+
+
+### [Your AI Agents Are Guessing at Scale: Permissions Decide the Damage](https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/)
+📅 July 29, 2026
+
+AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]
+
+
+### [Windows 11 KB5101684 update released with 42 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/)
+📅 July 29, 2026
+
+​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]
+
+
+### [These near-mint ASUS Chromebook refurbs are only $145](https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/)
+📅 July 29, 2026
+
+Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade "A" rating, but it still only costs $144.97 (reg. $369.99) on s...
+
+
 ### [CubePilot drone software dev hit by DNS hijacking to intercept traffic](https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/)
 📅 July 28, 2026
 
 CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]
 
 
-### [OpenAI models used Artifactory zero-days to escape to the internet](https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/)
-📅 July 28, 2026
-
-JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]
-
-
-### [CISA shares advice on isolating vital systems during cyberattacks](https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/)
-📅 July 28, 2026
-
-The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]
-
-
-### [vBulletin fixes critical pre-auth RCE flaw with public exploit](https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/)
-📅 July 28, 2026
-
-A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]
-
-
-### [Is Your SSO Protected Against Modern Credential Attacks?](https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/)
-📅 July 28, 2026
-
-A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]
-
-
-### [Over 24,000 exposed server BMCs leak password hash via decades-old flaw](https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/)
-📅 July 28, 2026
-
-More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]
-
-
-### [Data breach at medical billing firm MCBS affects 1.26 million people](https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/)
-📅 July 28, 2026
-
-Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]
-
-
-### [Hackers target US firms in FastJson RCE zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/)
-📅 July 27, 2026
-
-Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]
-
-
-### [Arista patches VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/)
-📅 July 27, 2026
-
-Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]
-
-
-### [New Dysphoria DDoS botnet spreads to 200k devices worldwide](https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/)
-📅 July 27, 2026
-
-A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
 
-### [Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass](https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html)
+### [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
+📅 July 30, 2026
+
+The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, ...
+
+
+### [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
+📅 July 30, 2026
+
+The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US. Previously authorized mo...
+
+
+### [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
+📅 July 30, 2026
+
+Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 ...
+
+
+### [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
+📅 July 30, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, as...
+
+
+### [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
 📅 July 29, 2026
 
-Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE...
+Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secret...
 
 
-### [OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach](https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html)
+### [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
 📅 July 29, 2026
 
-OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security inci...
+Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all ver...
 
 
-### [New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands](https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html)
+### [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
 📅 July 29, 2026
 
-Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9....
+Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as ...
 
 
-### [Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates](https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html)
+### [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
 📅 July 29, 2026
 
-Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake "公安一网通办" Public S...
+A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected a...
 
 
-### [Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js](https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html)
+### [Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)
 📅 July 29, 2026
 
-Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4...
+Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have se...
 
 
-### [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html)
-📅 July 28, 2026
+### [Mythos Asks the Right Question. It Doesn't Answer It.](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
+📅 July 29, 2026
 
-Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementa...
-
-
-### [Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
-📅 July 28, 2026
-
-A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its hon...
-
-
-### [24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login](https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html)
-📅 July 28, 2026
-
-Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IP...
-
-
-### [JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
-📅 July 28, 2026
-
-JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they rea...
-
-
-### [Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
-📅 July 28, 2026
-
-OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker a...
+AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines...
 
 
 ---
