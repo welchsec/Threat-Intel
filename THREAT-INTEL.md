@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **August 02, 2026 at 09:57 UTC**  
+> Last updated: **August 03, 2026 at 11:23 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,24 @@ Microsoft today released software updates to plug nearly 200 security holes acro
 
 ## 💻 Bleeping Computer
 
+### [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
+📅 August 02, 2026
+
+OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]
+
+
+### [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
+📅 August 02, 2026
+
+A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]
+
+
+### [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
+📅 August 02, 2026
+
+Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]
+
+
 ### [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
 📅 August 01, 2026
 
@@ -124,27 +142,39 @@ A Chinese-speaking threat actor is using the DeepSeek AI model and the open-sour
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]
 
 
-### [ESET tracks rise in malicious AI skills and adaptable malware](https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/)
-📅 July 31, 2026
-
-Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security soft...
-
-
-### [Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests](https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/)
-📅 July 31, 2026
-
-One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]
-
-
-### [South Korea fines telco giant KT $39 million for customer data breach](https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/)
-📅 July 30, 2026
-
-South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
+📅 August 03, 2026
+
+An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are...
+
+
+### [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
+📅 August 03, 2026
+
+The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, ...
+
+
+### [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
+📅 August 03, 2026
+
+Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if labora...
+
+
+### [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
+📅 August 03, 2026
+
+N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on Augus...
+
+
+### [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
+📅 August 03, 2026
+
+Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. "These vulnerabilities are byp...
+
 
 ### [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
 📅 August 01, 2026
@@ -174,36 +204,6 @@ A fake browser update served over hijacked hotel Wi-Fi has been used to deliver 
 📅 July 31, 2026
 
 A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizat...
-
-
-### [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
-📅 July 31, 2026
-
-Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted arch...
-
-
-### [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
-📅 July 31, 2026
-
-Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co.,...
-
-
-### [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
-📅 July 31, 2026
-
-Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were released last month. In its latest patch for Chrome 151, released Wednesday, th...
-
-
-### [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
-📅 July 31, 2026
-
-An academic study has disclosed a "widespread class" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session. The finding...
-
-
-### [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
-📅 July 31, 2026
-
-Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-constrained devices like smart TVs, printers, and so on, the device authorization lo...
 
 
 ---
