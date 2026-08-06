@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **August 05, 2026 at 10:35 UTC**  
+> Last updated: **August 06, 2026 at 10:39 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,48 @@ Microsoft today released software updates to plug nearly 200 security holes acro
 
 ## 💻 Bleeping Computer
 
+### [Ransom Cartel ransomware creator sentenced to 16 years in prison](https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/)
+📅 August 05, 2026
+
+Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]
+
+
+### [Canadian pleads guilty to Snowflake cloud data-theft attacks](https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/)
+📅 August 05, 2026
+
+A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]
+
+
+### [Hackers run khunt post-exploitation toolkit from Oracle database](https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/)
+📅 August 05, 2026
+
+Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]
+
+
+### [COLDCARD security audit phishing attack installs remote access tool](https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/)
+📅 August 05, 2026
+
+A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]
+
+
+### [CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/)
+📅 August 05, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]
+
+
+### [Google Blogger locks hundreds of blogs in malware false positive](https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/)
+📅 August 05, 2026
+
+Google has locked hundreds of Blogger websites after a false positive claimed they violated its "Malware and Similar Malicious Content" policy, with some sites deleted from the platform. [...]
+
+
+### [How AI-powered phishing killed blocklists for good](https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/)
+📅 August 05, 2026
+
+AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicat...
+
+
 ### [OpenAI, Anthropic AI agents targeted real people and systems in cyber tests](https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/)
 📅 August 04, 2026
 
@@ -100,110 +142,68 @@ TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mech
 The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]
 
 
-### [New XCSSET variant targets macOS devs via compromised Xcode projects](https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/)
-📅 August 04, 2026
-
-A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]
-
-
-### [77 Open VSX extensions found harvesting developer info](https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/)
-📅 August 04, 2026
-
-77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]
-
-
-### [Massive ChainDrop npm supply-chain attack infects hundreds of packages](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
-📅 August 04, 2026
-
-Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]
-
-
-### [Varonis Agent IBAC keeps AI agents within their intended boundaries](https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/)
-📅 August 04, 2026
-
-AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]
-
-
-### [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
-📅 August 04, 2026
-
-Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]
-
-
-### [New Pass-ta-key attacks let malware hijack Google-synced passkeys](https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/)
-📅 August 03, 2026
-
-Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]
-
-
-### [New DOUBLECUP ClickFix service hides malware in browser cache images](https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/)
-📅 August 03, 2026
-
-A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
 
-### [Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
+### [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html)
+📅 August 06, 2026
+
+Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and r...
+
+
+### [AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model](https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html)
+📅 August 06, 2026
+
+Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, a...
+
+
+### [Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells](https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html)
+📅 August 06, 2026
+
+Cybersecurity researchers have disclosed details of a "factory-shipped backdoor" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The back...
+
+
+### [Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service](https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html)
+📅 August 06, 2026
+
+A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in...
+
+
+### [CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild](https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html)
+📅 August 06, 2026
+
+A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserializatio...
+
+
+### [Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People](https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html)
+📅 August 06, 2026
+
+Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at leas...
+
+
+### [Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures](https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html)
 📅 August 05, 2026
 
-A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. The "evil twin" extensions were uploaded to the repository between July 26 and A...
+A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawl...
 
 
-### [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html)
+### [OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes](https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html)
 📅 August 05, 2026
 
-An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten ...
+OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts like...
 
 
-### [CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited](https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html)
+### [Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt](https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html)
 📅 August 05, 2026
 
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-9198 (CVSS score: 9.8) - A code inject...
+Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (L...
 
 
-### [QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
+### [Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports](https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html)
 📅 August 05, 2026
 
-Cybersecurity researchers have disclosed what has been described as a "long-standing supply chain attack" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing si...
-
-
-### [Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens](https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html)
-📅 August 04, 2026
-
-The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and sei...
-
-
-### [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
-📅 August 04, 2026
-
-A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider...
-
-
-### [Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
-📅 August 04, 2026
-
-Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs lik...
-
-
-### [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html)
-📅 August 04, 2026
-
-The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. I...
-
-
-### [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html)
-📅 August 04, 2026
-
-Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent. The researchers said the public agent could be prompt-injected into postin...
-
-
-### [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html)
-📅 August 04, 2026
-
-cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past acc...
+Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expos...
 
 
 ---
