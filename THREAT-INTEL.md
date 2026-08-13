@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **August 12, 2026 at 09:11 UTC**  
+> Last updated: **August 13, 2026 at 09:12 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,69 +82,111 @@ For the past four years, a sprawling Android-based botnet called Popa has forced
 
 ## 💻 Bleeping Computer
 
-### [Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse](https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/)
+### ["City-Forum" data-theft attacks target Salesforce, ServiceNow portals](https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/)
 📅 August 12, 2026
 
-Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]
+An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]
 
 
-### [DeadLock ransomware uses blockchain to resist infrastructure takedown](https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/)
-📅 August 11, 2026
+### [Android malware combo takes out loans and relays victims' credit cards](https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/)
+📅 August 12, 2026
 
-The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]
-
-
-### [Sandworm hackers target IT pros with trojanized WireGuard VPN client](https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/)
-📅 August 11, 2026
-
-Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]
+A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]
 
 
-### [Cisco warns of ASA and FTD VPN flaw exploited to crash devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/)
-📅 August 11, 2026
+### [Hackers exploit critical Adobe Commerce flaw to hijack customer accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/)
+📅 August 12, 2026
 
-Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]
-
-
-### [Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees](https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/)
-📅 August 11, 2026
-
-Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]
+Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]
 
 
-### [Microsoft releases Windows 10 KB5120249 extended security update](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/)
-📅 August 11, 2026
+### [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
+📅 August 12, 2026
 
-Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]
-
-
-### [Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/)
-📅 August 11, 2026
-
-Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]
+More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]
 
 
-### [Windows 11 KB5121003 & KB5120240 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/)
-📅 August 11, 2026
+### [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
+📅 August 12, 2026
 
-Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]
-
-
-### [Wesco confirms security incident after ExfilSquad claims data theft](https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/)
-📅 August 11, 2026
-
-Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]
+Security researchers have disclosed new "Plug and Pwn" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]
 
 
-### [Mozilla updates GPG signing key for Firefox releases after exposure](https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/)
-📅 August 11, 2026
+### [Lazarus hackers exploited Windows zero-day to target defense firms](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/)
+📅 August 12, 2026
 
-Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]
+North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]
+
+
+### [FBI: Hackers target online accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/)
+📅 August 12, 2026
+
+The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]
+
+
+### [The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In](https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/)
+📅 August 12, 2026
+
+Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness checks can help organizations confirm that the person receiving access is the legi...
+
+
+### [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
+📅 August 12, 2026
+
+Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]
+
+
+### [Signal adds new security feature to thwart man-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/)
+📅 August 12, 2026
+
+​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]
 
 
 ---
 
 ## 🗞️ The Hacker News
+
+### [Attackers Exploit SharePoint Authentication Bypass After Public PoC Release](https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html)
+📅 August 13, 2026
+
+Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. ...
+
+
+### [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
+📅 August 12, 2026
+
+The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity...
+
+
+### [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
+📅 August 12, 2026
+
+A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store develope...
+
+
+### [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
+📅 August 12, 2026
+
+A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the providers' reasoning...
+
+
+### [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
+📅 August 12, 2026
+
+Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2...
+
+
+### [Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws](https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html)
+📅 August 12, 2026
+
+Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVS...
+
+
+### [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
+📅 August 12, 2026
+
+Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicio...
+
 
 ### [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
 📅 August 12, 2026
@@ -162,48 +204,6 @@ SAP has released patches to address a maximum-severity security flaw impacting C
 📅 August 12, 2026
 
 The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for C...
-
-
-### [Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS](https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html)
-📅 August 12, 2026
-
-Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checki...
-
-
-### [Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack](https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html)
-📅 August 11, 2026
-
-Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That ...
-
-
-### [Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing](https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html)
-📅 August 11, 2026
-
-Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, w...
-
-
-### [Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client](https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html)
-📅 August 11, 2026
-
-Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim...
-
-
-### [Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands](https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html)
-📅 August 11, 2026
-
-The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity...
-
-
-### [Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE](https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html)
-📅 August 11, 2026
-
-Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as&nbsp;CVE-2026-55040&nbsp;(CVSS 9.1), affects SharePoint Server Subscr...
-
-
-### [DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt](https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html)
-📅 August 11, 2026
-
-The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. "Its recovery ecosystem combines the Session messaging network with blockchain-backed services that sto...
 
 
 ---
