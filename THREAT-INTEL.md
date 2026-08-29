@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **August 28, 2026 at 19:56 UTC**  
+> Last updated: **August 29, 2026 at 13:39 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,12 @@ The Federal Bureau of Investigation (FBI) said today it worked with industry par
 
 ## 💻 Bleeping Computer
 
+### [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
+📅 August 28, 2026
+
+Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]
+
+
 ### [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
 📅 August 28, 2026
 
@@ -136,15 +142,21 @@ Microsoft released the KB5120998 preview cumulative update for Windows 11 versio
 New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]
 
 
-### [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
-📅 August 27, 2026
-
-PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
+📅 August 28, 2026
+
+Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in t...
+
+
+### [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
+📅 August 28, 2026
+
+Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE id...
+
 
 ### [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
 📅 August 28, 2026
@@ -192,18 +204,6 @@ ServiceNow has released patches for four security flaws impacting the ServiceNow
 📅 August 28, 2026
 
 VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices. The implants, named SPEAKINGSTONE and DARKLANTER...
-
-
-### [Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server](https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html)
-📅 August 28, 2026
-
-cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel &amp...
-
-
-### [PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions](https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html)
-📅 August 28, 2026
-
-PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It said it's "aware of con...
 
 
 ---
