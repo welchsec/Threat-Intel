@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **August 29, 2026 at 13:39 UTC**  
+> Last updated: **August 30, 2026 at 13:36 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,18 @@ The Federal Bureau of Investigation (FBI) said today it worked with industry par
 
 ## 💻 Bleeping Computer
 
+### [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
+📅 August 29, 2026
+
+Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]
+
+
+### [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
+📅 August 29, 2026
+
+The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]
+
+
 ### [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
 📅 August 28, 2026
 
@@ -130,21 +142,21 @@ Hasbro, one of the world's largest toy and game companies, has disclosed that at
 ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]
 
 
-### [Windows 11 KB5120998 update released with 35 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/)
-📅 August 28, 2026
-
-Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]
-
-
-### [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
-📅 August 27, 2026
-
-New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
+📅 August 30, 2026
+
+Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. "While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique b...
+
+
+### [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
+📅 August 29, 2026
+
+Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patch...
+
 
 ### [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
 📅 August 28, 2026
@@ -192,18 +204,6 @@ Security researcher Olivier Laflamme has disclosed two independent root remote c
 📅 August 28, 2026
 
 An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on run...
-
-
-### [Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL](https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html)
-📅 August 28, 2026
-
-ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed a security update to hosted instances and provided...
-
-
-### [China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access](https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html)
-📅 August 28, 2026
-
-VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices. The implants, named SPEAKINGSTONE and DARKLANTER...
 
 
 ---
