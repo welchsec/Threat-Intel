@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **September 03, 2026 at 12:38 UTC**  
+> Last updated: **September 04, 2026 at 12:32 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,128 +82,128 @@ A cybersecurity startup dangling millions of dollars to acquire zero-day securit
 
 ## 💻 Bleeping Computer
 
-### [Microsoft says KB5120998 Windows update resets desktop settings](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/)
+### [Exchange Online outage causes email delays, 'Server busy' errors](https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/)
+📅 September 04, 2026
+
+Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]
+
+
+### [Google warns of new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/)
+📅 September 04, 2026
+
+Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]
+
+
+### [French hospital fined €500,000 after breach exposes data of 727,000](https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/)
 📅 September 03, 2026
 
-Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]
+France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]
 
 
-### [Plex warns users to patch security vulnerabilities immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/)
+### [Coder's registry infrastructure compromised to push malicious modules](https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/)
 📅 September 03, 2026
 
-Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]
+Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]
 
 
-### [Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/)
+### [HPE patches critical ArubaOS-CX remote code execution flaw](https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/)
 📅 September 03, 2026
 
-Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]
+Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]
 
 
-### [Hackers exploit Sangoma Switchvox flaw to deploy reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/)
-📅 September 02, 2026
+### [Microsoft: KB5120998 mouse reset bug affects only non-English PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/)
+📅 September 03, 2026
 
-Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]
-
-
-### [WordPress backup plugin flaw exposes millions of sites to takeover attacks](https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/)
-📅 September 02, 2026
-
-An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]
+Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]
 
 
-### [Hackers exploit critical JFrog Artifactory flaw to forge admin tokens](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/)
-📅 September 02, 2026
+### [OpenAI confirms ChatGPT is down ahead of 'Astra' model launch](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/)
+📅 September 03, 2026
 
-A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]
-
-
-### [Ransomware protection for MSPs: A 6-point checklist for faster recovery](https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/)
-📅 September 02, 2026
-
-Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]
+ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]
 
 
-### [Dropbox accounts breached through Lenovo email verification flaw](https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/)
-📅 September 02, 2026
+### [Anthropic confirms Claude is down, multiple models affected](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/)
+📅 September 03, 2026
 
-Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]
-
-
-### [Microsoft Defender flags legitimate Google search links as malicious](https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/)
-📅 September 02, 2026
-
-Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]
+Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]
 
 
-### [US charges Russian for infecting 80,000 freelancers with malware](https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/)
-📅 September 02, 2026
+### [Critical Elementor Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/)
+📅 September 03, 2026
 
-A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]
+A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]
+
+
+### [Your Employee’s Password Appeared in an Infostealer Log. Now What?](https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/)
+📅 September 03, 2026
+
+Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]
 
 
 ---
 
 ## 🗞️ The Hacker News
 
+### [Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)
+📅 September 04, 2026
+
+Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag &amp; Drop Fo...
+
+
+### [Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)
+📅 September 04, 2026
+
+Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said...
+
+
+### [Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day](https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html)
+📅 September 04, 2026
+
+Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome's JavaScript and WebAsse...
+
+
+### [GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)
+📅 September 04, 2026
+
+OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the "world's most intelligent and aligned model." The development comes days after the artificial intelligence (AI) company said the model had reached the "Critical" cybersecurity capability threshold under its Preparedness Fr...
+
+
+### [ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)
+📅 September 03, 2026
+
+The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides tha...
+
+
+### [Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)
+📅 September 03, 2026
+
+Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround...
+
+
+### [BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory](https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html)
+📅 September 03, 2026
+
+Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. "Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowe...
+
+
+### [Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data](https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html)
+📅 September 03, 2026
+
+Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it dis...
+
+
+### [US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)
+📅 September 03, 2026
+
+An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign'...
+
+
 ### [Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)
 📅 September 03, 2026
 
 Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, techno...
-
-
-### [Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html)
-📅 September 03, 2026
-
-In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Earli...
-
-
-### [Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)
-📅 September 03, 2026
-
-The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. "Our analysis confirmed that an iMessage zero-click exploit was used to infect the device wi...
-
-
-### [Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon](https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html)
-📅 September 03, 2026
-
-The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. "FalconFlank is a 0day privilege escalation that abuses the office malicious macros r...
-
-
-### [CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners](https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html)
-📅 September 03, 2026
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request for...
-
-
-### [Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
-📅 September 02, 2026
-
-Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. "The Fairwind Program gives high-priority defenders (like governments, healthcar...
-
-
-### [Fake Software Installers Disable Windows Update and Weaken Microsoft Defender](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
-📅 September 02, 2026
-
-An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. "The campaign has targeted users looking to download popular software and has resulted in compromises across multiple organizations and industries, primarily affec...
-
-
-### [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
-📅 September 02, 2026
-
-Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the age...
-
-
-### [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
-📅 September 02, 2026
-
-A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sport...
-
-
-### [BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access](https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html)
-📅 September 02, 2026
-
-Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hyperviso...
 
 
 ---
