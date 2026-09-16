@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **September 15, 2026 at 13:12 UTC**  
+> Last updated: **September 16, 2026 at 13:12 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,128 +82,128 @@ The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmor
 
 ## 💻 Bleeping Computer
 
-### [CISA: Critical VMware RCE flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/)
+### [Microsoft says Copilot buttons still missing in classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/)
+📅 September 16, 2026
+
+Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]
+
+
+### [Webinar: What happens in the first hours of a Google Workspace breach](https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/)
+📅 September 16, 2026
+
+The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]
+
+
+### [Critical ScreenConnect flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/)
+📅 September 16, 2026
+
+Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]
+
+
+### [Windows Server 2022 reaches end of mainstream support next month](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/)
+📅 September 16, 2026
+
+Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]
+
+
+### [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/)
+📅 September 16, 2026
+
+Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]
+
+
+### [Acronis warns of actively exploited flaw in its cPanel backup plugin](https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/)
 📅 September 15, 2026
 
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]
+Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]
 
 
-### [Suspected Black Axe gang leaders face cybercrime charges in the US](https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/)
+### [Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites](https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/)
 📅 September 15, 2026
 
-Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]
+Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]
 
 
-### [Microsoft confirms KB5002914 Excel update breaks copy and paste](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/)
+### [CenterPoint Energy confirms customer data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/)
 📅 September 15, 2026
 
-Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]
+CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]
 
 
-### [Cisco patches Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/)
+### [BambooToken malware controls Windows and Linux systems via MQTT](https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/)
 📅 September 15, 2026
 
-Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]
+A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]
 
 
-### [Microsoft releases emergency Windows updates to fix RDS failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/)
-📅 September 14, 2026
+### [Hackers target WordPress sites via third-party WooCommerce plugin](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/)
+📅 September 15, 2026
 
-Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]
-
-
-### [Japan's Digital Agency says VPN flaw exposed 246,000 personnel records](https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/)
-📅 September 14, 2026
-
-Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]
-
-
-### [Homebrew 7.0.0 gets built-in GUI, better security controls](https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/)
-📅 September 14, 2026
-
-Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]
-
-
-### [Twitch extension with 30K installs exposes users’ OAuth tokens](https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/)
-📅 September 14, 2026
-
-A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]
-
-
-### [Hackers hijack HBO Max Reddit account to push malware in ClickFix ads](https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/)
-📅 September 14, 2026
-
-Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]
-
-
-### [Hackers target exposed Vite dev servers to steal AWS, Azure secrets](https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/)
-📅 September 14, 2026
-
-A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]
+Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]
 
 
 ---
 
 ## 🗞️ The Hacker News
 
+### [N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security](https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html)
+📅 September 16, 2026
+
+N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single co...
+
+
+### [Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation](https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html)
+📅 September 16, 2026
+
+Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. "In Cellular Modem, there is a possible permission bypass due to a logic error ...
+
+
+### [Threat Intelligence Alone Won't Close the Exploitation Gap](https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html)
+📅 September 16, 2026
+
+A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelera...
+
+
+### [Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html)
+📅 September 16, 2026
+
+Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permi...
+
+
+### [Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
+📅 September 16, 2026
+
+Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. "This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote c...
+
+
+### [Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens](https://thehackernews.com/2026/09/active-exploitation-attempts-target.html)
+📅 September 16, 2026
+
+A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover...
+
+
+### [KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens](https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html)
+📅 September 15, 2026
+
+Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonat...
+
+
+### [Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists](https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html)
+📅 September 15, 2026
+
+Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world. The malware is controlled via the Telegram messaging app and can copy...
+
+
+### [BambooToken Malware Uses MQTT to Control Windows and Linux Systems](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
+📅 September 15, 2026
+
+Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emerging malware family, codenamed BambooToken, is assessed to be active since at leas...
+
+
 ### [Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
 📅 September 15, 2026
 
 With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by t...
-
-
-### [Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point](https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html)
-📅 September 15, 2026
-
-Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuo...
-
-
-### [Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers](https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html)
-📅 September 15, 2026
-
-Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud credentials, configurations from Amazon Web Servic...
-
-
-### [LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
-📅 September 15, 2026
-
-A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&nbsp;advisory published on September 14. On such servers, many customers' sites run on a single machine, and an attacker with one of tho...
-
-
-### [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html)
-📅 September 15, 2026
-
-Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS score of 9.8 out of a maximum of 10.0. It has been described as a case of insuffic...
-
-
-### [China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE](https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html)
-📅 September 15, 2026
-
-A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Volexity, which is tracking the threat cluster under the moniker UTA0560, said the...
-
-
-### [New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing](https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html)
-📅 September 14, 2026
-
-Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who alr...
-
-
-### [3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials](https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html)
-📅 September 14, 2026
-
-An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a serv...
-
-
-### [Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports](https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html)
-📅 September 14, 2026
-
-A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&nbsp;writeup&nbsp;published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when som...
-
-
-### [Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries](https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html)
-📅 September 14, 2026
-
-A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. "Red Heron scanned 1,386 Gitea instances across seven countries an...
 
 
 ---
