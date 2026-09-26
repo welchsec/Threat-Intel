@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **September 25, 2026 at 13:19 UTC**  
+> Last updated: **September 26, 2026 at 12:42 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -17,6 +17,12 @@
 ---
 
 ## 🔐 Krebs on Security
+
+### [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)
+📅 September 25, 2026
+
+A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victim...
+
 
 ### [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
 📅 September 16, 2026
@@ -72,15 +78,57 @@ Security experts have been sounding the alarm for years about the risks of using
 The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available fo...
 
 
-### [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
-📅 July 14, 2026
-
-Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning p...
-
-
 ---
 
 ## 💻 Bleeping Computer
+
+### [OpenAI's AI agents accidentally uploaded user-provided images to third-party sites](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/)
+📅 September 26, 2026
+
+OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]
+
+
+### [Kiteworks urges 6-hour server shutdown over potential zero-day attacks](https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/)
+📅 September 25, 2026
+
+Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]
+
+
+### [ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw](https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/)
+📅 September 25, 2026
+
+The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]
+
+
+### [Elementor WordPress flaw lets attackers create admin accounts](https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/)
+📅 September 25, 2026
+
+A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]
+
+
+### [CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/)
+📅 September 25, 2026
+
+The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]
+
+
+### [Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)
+📅 September 25, 2026
+
+Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]
+
+
+### [OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)
+📅 September 25, 2026
+
+OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]
+
+
+### [With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)
+📅 September 25, 2026
+
+AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]
+
 
 ### [Microsoft plans to deprecate Windows Deployment Services](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/)
 📅 September 25, 2026
@@ -94,57 +142,39 @@ Microsoft announced it will deprecate the Windows Deployment Services (WDS) serv
 A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]
 
 
-### [Microsoft: Recent Windows updates cause desktop loading issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/)
-📅 September 25, 2026
-
-Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]
-
-
-### [Hackers steal $351.6 million in Bitget crypto exchange hack](https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/)
-📅 September 25, 2026
-
-​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]
-
-
-### [MacSync malware uses public iCloud calendars to deliver new payloads](https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/)
-📅 September 24, 2026
-
-A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]
-
-
-### [New Carbonato malware uses AI agents to hijack exposed Docker hosts](https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/)
-📅 September 24, 2026
-
-A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]
-
-
-### [Exposed GitLab project email addresses let attackers push code](https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/)
-📅 September 24, 2026
-
-Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]
-
-
-### [FedRAMP VDR & VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)
-📅 September 24, 2026
-
-FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated complian...
-
-
-### [Hackers now exploit critical Roundcube flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/)
-📅 September 24, 2026
-
-A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]
-
-
-### [Windows 11 KB5124010 update released with 46 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/)
-📅 September 24, 2026
-
-Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
+📅 September 26, 2026
+
+Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to b...
+
+
+### [SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)
+📅 September 26, 2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-...
+
+
+### [Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)
+📅 September 26, 2026
+
+Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. "Kiteworks received credible threat intelligence from federal intelligence authorities indica...
+
+
+### [Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)
+📅 September 25, 2026
+
+Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign. The affected GitHub Actions are listed below - actions-cool/issues-helper actions-cool/maintain-on...
+
+
+### [PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence](https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html)
+📅 September 25, 2026
+
+Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain. The latest artifacts, per Jamf Threat Labs, continue to rely on the same JavaScript for Automation (JXA) dropper mechanism, but modify the...
+
 
 ### [The SOC Doesn't Need to Start Over with Every Alert](https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html)
 📅 September 25, 2026
@@ -174,36 +204,6 @@ A flaw in Cloudflare Containers let a paying customer read data that other custo
 📅 September 25, 2026
 
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-20...
-
-
-### [Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions](https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html)
-📅 September 24, 2026
-
-A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&nbsp;chained two flaws in OnePlus's own software&nbsp;to gain root access, the highest level of control over an Android phone. OnePlus...
-
-
-### [ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories](https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html)
-📅 September 24, 2026
-
-This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than ...
-
-
-### [Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content](https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html)
-📅 September 24, 2026
-
-The "third-party[.]com" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. "third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays," M...
-
-
-### [Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer](https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html)
-📅 September 24, 2026
-
-An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic. "When a visitor interacts with the page, the lure copie...
-
-
-### [Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls](https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html)
-📅 September 24, 2026
-
-The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that's dr...
 
 
 ---
