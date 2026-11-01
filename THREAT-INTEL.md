@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **October 31, 2026 at 14:21 UTC**  
+> Last updated: **November 01, 2026 at 14:47 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,24 @@ Microsoft Corp. today issued updates to plug at least 974 security holes in its 
 
 ## 💻 Bleeping Computer
 
+### [OpenAI says it's doubling Pro usage limits and bringing Work features to Chat](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/)
+📅 November 01, 2026
+
+OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]
+
+
+### [Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)
+📅 October 31, 2026
+
+Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]
+
+
+### [New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)
+📅 October 31, 2026
+
+A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]
+
+
 ### [Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)
 📅 October 31, 2026
 
@@ -91,7 +109,7 @@ Reddit announced in a post by co-founder Steve Huffman that the site will gradua
 ### [From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)
 📅 October 31, 2026
 
-[...]
+AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to s...
 
 
 ### [Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)
@@ -124,27 +142,33 @@ A malicious version of Anthropic's Claude Code VS Code extension was distributed
 Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile s...
 
 
-### [CISA says max severity GitLab flaw now exploited in the wild](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/)
-📅 October 30, 2026
-
-Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]
-
-
-### [Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)
-📅 October 30, 2026
-
-Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]
-
-
-### [Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)
-📅 October 30, 2026
-
-Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)
+📅 November 01, 2026
+
+A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that clien...
+
+
+### [Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)
+📅 November 01, 2026
+
+Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says&nbsp;it is refunding about $2.7 million to ...
+
+
+### [FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html)
+📅 November 01, 2026
+
+The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Sec...
+
+
+### [NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection](https://thehackernews.com/2026/11/netamloader-malware-targets-government.html)
+📅 November 01, 2026
+
+Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and in...
+
 
 ### [Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)
 📅 October 31, 2026
@@ -180,30 +204,6 @@ Chinese state-sponsored threat actors have been observed using a Go-based artifi
 📅 October 30, 2026
 
 TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or compromised host can e...
-
-
-### [WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours](https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html)
-📅 October 30, 2026
-
-Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7 through 7.1.3. It carr...
-
-
-### [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
-📅 October 30, 2026
-
-A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to m...
-
-
-### [Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
-📅 October 30, 2026
-
-The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything.&nbsp; Their concerns are practical. An IPS protection could block legitimate traffic. ...
-
-
-### [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
-📅 October 30, 2026
-
-Ahmad Umar Agha, a Syrian Electronic Army hacker known online as "Th3Pr0," has been&nbsp;sentenced by a U.S. federal court&nbsp;to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian President B...
 
 
 ---
