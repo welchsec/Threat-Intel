@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **November 04, 2026 at 15:59 UTC**  
+> Last updated: **November 06, 2026 at 15:43 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -17,6 +17,12 @@
 ---
 
 ## 🔐 Krebs on Security
+
+### [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
+📅 November 05, 2026
+
+Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was g...
+
 
 ### [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
 📅 November 03, 2026
@@ -72,143 +78,141 @@ Authorities in the Netherlands have arrested a 23-year-old convicted cybercrimin
 A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victim...
 
 
-### [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/)
-📅 September 16, 2026
-
-The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides...
-
-
 ---
 
 ## 💻 Bleeping Computer
 
-### [Google Calendar phishing campaign hijacks sessions, bypasses MFA](https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/)
-📅 November 04, 2026
+### [Veeam warns of Software Appliance boot failures on AMD EPYC hosts](https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/)
+📅 November 06, 2026
 
-A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used b...
-
-
-### [SonicWall warns of unpatched flaws in end-of-life GMS software](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/)
-📅 November 04, 2026
-
-SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]
+​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]
 
 
-### [US charges two Canadians accused of hacking US universities](https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/)
-📅 November 04, 2026
+### [IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It](https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/)
+📅 November 06, 2026
 
-A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]
-
-
-### [CISA flags WordPress RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/)
-📅 November 04, 2026
-
-The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]
+IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]
 
 
-### [Hackers use n-day exploits in zero-click attacks on iOS, Android devices](https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/)
-📅 November 04, 2026
+### [Chainalysis says breach exposed credentials for all customers](https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/)
+📅 November 06, 2026
 
-A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]
-
-
-### [Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)
-📅 November 03, 2026
-
-Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]
+Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]
 
 
-### [WorkOS says attacker used ARTEX AI to breach internal sales app](https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/)
-📅 November 03, 2026
+### [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
+📅 November 06, 2026
 
-Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]
-
-
-### [Binance says fake job interview led to $6.3 billion crypto heist](https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/)
-📅 November 03, 2026
-
-Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]
+D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]
 
 
-### [Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)
-📅 November 03, 2026
+### [MetaMask says recent attack didn't affect wallet infrastructure](https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/)
+📅 November 06, 2026
 
-Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]
+Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]
 
 
-### [Barracuda warns of critical flaws allowing root access to devices](https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/)
-📅 November 03, 2026
+### [FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)
+📅 November 06, 2026
 
-Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]
+The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]
+
+
+### [Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)
+📅 November 05, 2026
+
+Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]
+
+
+### [Nearly 1.5 million exposed secrets targeted in new revocation program](https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/)
+📅 November 05, 2026
+
+Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]
+
+
+### [OpenAI’s GPT-6 Astra silently obstructed safety research tasks](https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/)
+📅 November 05, 2026
+
+OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]
+
+
+### [OpenSSH flaw lets attackers log into password-disabled Linux accounts](https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/)
+📅 November 05, 2026
+
+A newly disclosed OpenSSH vulnerability dubbed "*sshole" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]
 
 
 ---
 
 ## 🗞️ The Hacker News
 
-### [APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits](https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html)
-📅 November 04, 2026
+### [Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
+📅 November 06, 2026
 
-The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. "The injected JavaScrip...
-
-
-### [Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
-📅 November 04, 2026
-
-A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in&nbsp;an advisory&nbsp;and fixed it in versions 8.1.4.1 and 8.0.5.2....
+A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The fla...
 
 
-### [Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
-📅 November 04, 2026
+### [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
+📅 November 06, 2026
 
-Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project sa...
-
-
-### [Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)
-📅 November 04, 2026
-
-Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what that gap looks like in ...
+A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop...
 
 
-### [China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor](https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html)
-📅 November 04, 2026
+### [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
+📅 November 06, 2026
 
-A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). Th...
-
-
-### [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html)
-📅 November 04, 2026
-
-Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Rus...
+An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what ...
 
 
-### [Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction](https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html)
-📅 November 04, 2026
+### [Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
+📅 November 06, 2026
 
-A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&nbsp;November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers a...
-
-
-### [CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades](https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html)
-📅 November 04, 2026
-
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-...
+Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. "While we investigated, we removed access to Reactor and Data Solutions," the company sai...
 
 
-### [mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)
-📅 November 03, 2026
+### [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
+📅 November 06, 2026
 
-Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mS...
+A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in it...
 
 
-### [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://thehackernews.com/2026/11/chainstack-reports-production-systems.html)
-📅 November 03, 2026
+### [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
+📅 November 06, 2026
 
-Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign ...
+Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, C...
+
+
+### [OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux](https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html)
+📅 November 05, 2026
+
+Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw cri...
+
+
+### [Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction](https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html)
+📅 November 05, 2026
+
+Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration ri...
+
+
+### [ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories](https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html)
+📅 November 05, 2026
+
+How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some...
+
+
+### [Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
+📅 November 05, 2026
+
+A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what ...
 
 
 ---
 
 ## 🚨 CISA Alerts
+
+### [CISA, FBI, HHS, USDA, and DOT Urge Critical Infrastructure To Strengthen Industrial Refrigeration and Cold Chain Monitoring Systems Cybersecurity](https://www.cisa.gov/news-events/news/cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-strengthen-industrial-refrigeration-and-cold)
+📅 November 05, 2026
+
 
 ### [CISA Kicks Off Critical Infrastructure Security and Resilience Month 2026](https://www.cisa.gov/news-events/news/cisa-kicks-critical-infrastructure-security-and-resilience-month-2026)
 📅 November 02, 2026
@@ -244,10 +248,6 @@ Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was t
 
 ### [CISA and NIST Release Guidelines to Protect Federal Cloud Identity Systems from Token Theft, Forgery, and Misuse](https://www.cisa.gov/news-events/news/cisa-and-nist-release-guidelines-protect-federal-cloud-identity-systems-token-theft-forgery-and)
 📅 September 15, 2026
-
-
-### [CISA Releases Updated Insider Threat Guide With New Insights to Mitigate Physical and Cyber Threats](https://www.cisa.gov/news-events/news/cisa-releases-updated-insider-threat-guide-new-insights-mitigate-physical-and-cyber-threats)
-📅 September 09, 2026
 
 
 ---
