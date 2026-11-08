@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **November 07, 2026 at 14:43 UTC**  
+> Last updated: **November 08, 2026 at 14:49 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,12 @@ A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunicatio
 
 ## 💻 Bleeping Computer
 
+### [Hackers pull off $133 million French bank heist via service provider](https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/)
+📅 November 07, 2026
+
+French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]
+
+
 ### [CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands](https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/)
 📅 November 07, 2026
 
@@ -134,12 +140,6 @@ IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, ho
 📅 November 06, 2026
 
 Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]
-
-
-### [D-Link warns of multiple zero-days in DGS-3130 Series switches](https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/)
-📅 November 06, 2026
-
-D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]
 
 
 ---
