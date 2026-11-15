@@ -1,6 +1,6 @@
 # 🛡️ Threat Intelligence Feed
 
-> Last updated: **November 14, 2026 at 14:49 UTC**  
+> Last updated: **November 15, 2026 at 15:25 UTC**  
 
 > Auto-updated daily via GitHub Actions.
 
@@ -82,6 +82,18 @@ A teenager from Amman, Jordan suspected of leading the prolific data theft and e
 
 ## 💻 Bleeping Computer
 
+### [Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)
+📅 November 14, 2026
+
+Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]
+
+
+### [US disrupts North Korean campaign behind $400 million crypto theft](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/)
+📅 November 14, 2026
+
+The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]
+
+
 ### [Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)
 📅 November 13, 2026
 
@@ -130,21 +142,21 @@ Microsoft has confirmed that this month's Patch Tuesday security updates are cau
 Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]
 
 
-### [New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)
-📅 November 12, 2026
-
-A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]
-
-
-### [Hackers compromise 4,800 GitHub accounts to steal cloud credentials](https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/)
-📅 November 12, 2026
-
-A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]
-
-
 ---
 
 ## 🗞️ The Hacker News
+
+### [Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)
+📅 November 15, 2026
+
+Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' phot...
+
+
+### [Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident](https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html)
+📅 November 15, 2026
+
+The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. "An attacker obtained an access key we had issued to Fireworks," Cursor said in a Friday update...
+
 
 ### [Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)
 📅 November 14, 2026
@@ -192,18 +204,6 @@ A newly identified spying group used hacked equipment inside Asian mobile operat
 📅 November 13, 2026
 
 An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 ...
-
-
-### [Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files](https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html)
-📅 November 13, 2026
-
-An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS&nbsp; to deploy a backdoor called TSGA. The activity, detailed by Check P...
-
-
-### [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
-📅 November 13, 2026
-
-N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. "We are restricting certain N-central features and integrations," the company said in a Thursday update. "These measures may affect some funct...
 
 
 ---
